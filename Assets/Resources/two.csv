@@ -1,0 +1,114 @@
+Chapter,Section,Vocab Item,Translation,Prompt Category,Frequency,PictureName
+2,title,las descripciones,descriptions,MC,0,null
+2,las descripciones,agradable,nice,El opuesto de antipático.,1724,null
+2,las descripciones,alegre,happy/ glad,El opuesto de triste.,2304,null
+2,las descripciones,alto/a,tall,El opuesto de bajo.,185,null
+2,las descripciones,antipático/a,unpleasant,El opuesto de agradable.,0,null
+2,las descripciones,bajo/a,short (in stature),El opuesto de alto.,214,null
+2,las descripciones,bilingüe,bilingual,Habla español e inglés.,0,null
+2,las descripciones,bonito/a,pretty,El opuesto de feo.,1707,null
+2,las descripciones,callado/a,quiet,No habla mucho.,3095,null
+2,las descripciones,cansado/a,tired,MC,2147,null
+2,las descripciones,casado/a,married,El opuesto de soltero.,1830,null
+2,las descripciones,contento/a,happy/ glad,MC,1642,null
+2,las descripciones,conversador/a,talkative,Habla mucho.,0,null
+2,las descripciones,corto/a,short (in length),El opuesto de largo.,537,null
+2,las descripciones,de estatura mediana,average/ medium height,Ni bajo ni alto.,4098,null
+2,las descripciones,débil,weak,El opuesto de fuerte.,1284,null
+2,las descripciones,delgado/a,thin,El opuesto de gordo.,3039,null
+2,las descripciones,divertido,funny/ amusing,El opuesto de aburrido.,2553,null
+2,las descripciones,enojado/a,angry,picture,0,enojado
+2,las descripciones,feo/a,ugly,El opuesto de bonito.,2381,null
+2,las descripciones,fuerte,strong,El opuesto de débil.,1010,null
+2,las descripciones,gordo/a,fat,El opuesto de delgado.,2217,null
+2,las descripciones,guapo/a,good-looking/ handsome,MC,4140,null
+2,las descripciones,hispano/a,Hispanic,Persona que habla español.,4983,null
+2,las descripciones,joven,young,El opuesto de mayor.,442,null
+2,las descripciones,largo/a,long,El opuesto de corto.,175,null
+2,las descripciones,listo/a,smart; ready,El opuesto de tonto.,1456,null
+2,las descripciones,mayor,old,El opuesto de joven.,138,null
+2,las descripciones,moreno/a,brunette,picture,2303,moreno
+2,las descripciones,nervioso/a,nervous,picture,1410,nerviosa
+2,las descripciones,nuevo/a,new,MC,99,null
+2,las descripciones,oscuro/a,dark,MC,888,null
+2,las descripciones,pelirrojo/a,redhead,picture,0,pelirrojo
+2,las descripciones,perezoso/a,lazy,No trabaja mucho.,0,null
+2,las descripciones,pobre,poor,El opuesto de rico.,373,null
+2,las descripciones,rico/a,rich. wealthy,El opuesto de pobre.,627,null
+2,las descripciones,rubio/a,blond,picture,3269,rubio
+2,las descripciones,simpático/a,nice/ charming,MC,2590,null
+2,las descripciones,soltero/a,single,El opuesto de casado.,3175,null
+2,las descripciones,tonto/a,silly/ foolish,El opuesto de listo.,2191,null
+2,las descripciones,trabajador/a,hardworking,Trabaja mucho.,1714,null
+2,las descripciones,triste,sad,El opuesto de contento.,1314,null
+2,las descripciones,viejo/a,old,MC,281,null
+2,title,verbos,verbs,MC,0,null
+2,verbos,desear,to wish/ to want,MC,515,null
+2,verbos,ser,to be,MC,8,null
+2,verbos,usar,to use,MC,380,null
+2,title,los colores,colors,MC,0,null
+2,los colores,amarillo/a,yellow,picture,1586,amarillo
+2,los colores,anaranjado/a,orange,picture,0,anaranjado
+2,los colores,azul,blue,picture,904,azul
+2,los colores,blanco/a,white,picture,250,blanco
+2,los colores,castaño/a,brown,picture,0,castano
+2,los colores,gris,gray,picture,2290,gris
+2,los colores,marrón,brown,Sinónimo de castaño.,4951,null
+2,los colores,morado/a,purple,picture,0,morado
+2,los colores,negro/a,black,picture,317,negro
+2,los colores,rojo/a,red,picture,533,rojo
+2,los colores,rosado/a/ rosa,pink,picture,4461,rosado
+2,los colores,verde,green,picture,878,verde
+2,title,las nacionalidades,nationalities,MC,0,null
+2,las nacionalidades,alemán/alemana,German,MC,963,null
+2,las nacionalidades,argentino/a,Argentinian,MC,1626,null
+2,las nacionalidades,boliviano/a,Bolivian,MC,0,null
+2,las nacionalidades,canadiense,Canadian,MC,0,null
+2,las nacionalidades,chileno/a,Chilean,MC,3164,null
+2,las nacionalidades,chino/a,Chinese,MC,1444,null
+2,las nacionalidades,colombiano/a,Colombian,MC,4695,null
+2,las nacionalidades,costarricense,Costa Rican,MC,0,null
+2,las nacionalidades,cubano/a,Cuban,MC,3905,null
+2,las nacionalidades,dominicano/a,Dominican,MC,0,null
+2,las nacionalidades,ecuatoriano/a,Ecuadorian,MC,0,null
+2,las nacionalidades,español/a,Spanish,MC,285,null
+2,las nacionalidades,estadounidense,U.S. citizen,MC,0,null
+2,las nacionalidades,francés/francesa,French,MC,646,null
+2,las nacionalidades,guatemalteco/a,Guatemalan,MC,0,null
+2,las nacionalidades,hondureño/a,Honduran,MC,0,null
+2,las nacionalidades,japonés/japonesa,Japanese,MC,2169,null
+2,las nacionalidades,marroquí,Moroccan,MC,0,null
+2,las nacionalidades,mexicano/a,Mexican,MC,3892,null
+2,las nacionalidades,nicaragüense,Nicaraguan,MC,0,null
+2,las nacionalidades,nigeriano/a,Nigerian,MC,0,null
+2,las nacionalidades,panameño/a,Panamanian,MC,0,null
+2,las nacionalidades,paraguayo/a,Paraguayan,MC,0,null
+2,las nacionalidades,peruano/a,Peruvian,MC,4359,null
+2,las nacionalidades,polaco/a,Polish,MC,0,null
+2,las nacionalidades,portugués/portuguesa,Portuguese,MC,3913,null
+2,las nacionalidades,puertorriqueño/a,Puerto Rican,MC,0,null
+2,las nacionalidades,salvadoreño/a,Salvadoran,MC,0,null
+2,las nacionalidades,uruguayo/a,Uruguayan,MC,0,null
+2,las nacionalidades,venezolano/a,Venezuelan,MC,0,null
+2,title,palabras y expreciones útiles,useful words and expressions,MC,0,null
+2,palabras y expreciones útiles,el auto/ el coche/ el carro,car,picture,2259,auto
+2,palabras y expreciones útiles,de,of/ from,MC,2,null
+2,palabras y expreciones útiles,¿de quién?,whose?,MC,292,null
+2,palabras y expreciones útiles,del,of the (contraction of de + el),MC,2,null
+2,palabras y expreciones útiles,el esposo/la esposa,husband/wife,MC,2676,null
+2,palabras y expreciones útiles,la flor,flower,picture,950,flor
+2,palabras y expreciones útiles,le gusta(n),you (formal) like,MC,353,null
+2,palabras y expreciones útiles,los lentes de contacto,contact lenses,picture,4193,lentes de contacto
+2,palabras y expreciones útiles,me gusta(n),I like,MC,353,null
+2,palabras y expreciones útiles,mucho (adv.),much/ a lot,MC,45,null
+2,palabras y expreciones útiles,mucho/a (adj.),many,MC,45,null
+2,palabras y expreciones útiles,el ojo,eye,picture,247,ojo
+2,palabras y expreciones útiles,el pelo,hair,picture,1056,pelo
+2,palabras y expreciones útiles,te gusta(n),you (familiar) like,MC,353,null
+2,palabras y expreciones útiles,Tengo... años.,I am... years old.,MC,55,null
+2,palabras y expreciones útiles,tiene,he/she has; you (formal) have,MC,18,null
+2,palabras y expreciones útiles,todos/as,everybody,MC,22,null
+2,palabras y expreciones útiles,mi(s),my,MC,49,null
+2,palabras y expreciones útiles,tu(s),your (familiar),MC,349,null
+2,palabras y expreciones útiles,su(s),your (formal)/ his/ her/ its/ their,MC,14,null
+2,palabras y expreciones útiles,nuestro(s)/ nuestra(s),our,MC,82,null

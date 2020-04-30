@@ -1,0 +1,135 @@
+Chapter,Section,Vocab Item,Translation,Prompt Category,Frequency,PictureName
+3,title,las diversiones y las celebraciones,entertainment and celebrations,MC,0,null
+3,las diversiones y las celebraciones,la canción,song,Las palabras que una persona canta.,1459,null
+3,las diversiones y las celebraciones,el cumpleaños,birthday,MC,3785,null
+3,las diversiones y las celebraciones,la fiesta,party,Cuando las personas celebran.,988,null
+3,las diversiones y las celebraciones,la guitarra,guitar,picture,2885,guitarra
+3,las diversiones y las celebraciones,la música,music,picture,550,musica
+3,las diversiones y las celebraciones,la película,film,MC,826,null
+3,las diversiones y las celebraciones,la reunión,meeting/ gathering,MC,746,null
+3,las diversiones y las celebraciones,el tiempo libre,free time,Cuando no tienes trabajo.,413,null
+3,las diversiones y las celebraciones,las vacaciones,vacation,MC,1623,null
+3,title,las personas,people,MC,0,null
+3,las personas,el/la camarero/a,server/ waiter/waitress (restaurant),MC,0,null
+3,las personas,el hombre,man,picture,80,hombre
+3,las personas,el/la joven,young man/woman,MC,442,null
+3,las personas,la mujer,woman,picture,127,mujer
+3,title,la comunicación,communication,MC,0,null
+3,la comunicación,el periódico,newspaper,picture,765,periodico
+3,la comunicación,la revista,magazine,picture,804,revista
+3,la comunicación,el teléfono,telephone,picture,999,telefono
+3,title,los lugares,places,MC,0,null
+3,los lugares,el cine,movies,picture,1159,cine
+3,los lugares,la ciudad,city,picture,197,ciudad
+3,los lugares,el mar,sea,picture,645,mar
+3,los lugares,el país,country/ nation,picture,133,pais
+3,title,las descripciones,descriptions,MC,0,null
+3,las descripciones,caliente,hot,El opuesto de frío.,1793,null
+3,las descripciones,fabuloso/a,favulous/ great,MC,3596,null
+3,las descripciones,frío/a,cold,El opuesto de caliente.,907,null
+3,las descripciones,frito/a,fried,MC,0,null
+3,title,verbos,verbs,MC,0,null
+3,verbos,alquilar,to rent,MC,3761,null
+3,verbos,bajar,to download,MC,569,null
+3,verbos,cantar,to sing,MC,1124,null
+3,verbos,celebrar,to celebrate,MC,1059,null
+3,verbos,cenar,to have dinner,MC,3261,null
+3,verbos,descansar,to rest,MC,1257,null
+3,verbos,hacer,to do,MC,25,null
+3,verbos,hacer la cama,to make the bed,MC,1185,null
+3,verbos,ir,to go,MC,30,null
+3,verbos,nadar,to swim,MC,3050,null
+3,verbos,oír,to hear,MC,263,null
+3,verbos,poner,to put,MC,77,null
+3,verbos,poner la mesa,to set the table,Preparar para comer.,461,null
+3,verbos,poner una película,to show a movie,MC,826,null
+3,verbos,salir,to leave,MC,111,null
+3,verbos,tocar (un instrumento),to play (an instrument),MC,813,null
+3,verbos,tomar el sol,to sunbathe,MC,686,null
+3,verbos,traer,to bring,MC,289,null
+3,title,expreciones con por,expressions with por,MC,0,null
+3,expreciones con por,por ciento,percent,MC,300,null
+3,expreciones con por,por ejemplo,for example,MC,162,null
+3,expreciones con por,por eso,for this reason,MC,63,null
+3,expreciones con por,por fin,at last,MC,156,null
+3,expreciones con por,por lo menos,at least,MC,98,null
+3,expreciones con por,por supuesto,of course,MC,511,null
+3,title,en un café o restaurante,in a coffee shop or restaurant,MC,0,null
+3,en un café o restaurante,la aceituna,olive,picture,0,aceituna
+3,en un café o restaurante,el agua,water,picture,194,agua
+3,en un café o restaurante,el almuerzo,lunch,La comida en el medio del día.,3104,null
+3,en un café o restaurante,al arroz,rice,picture,3130,arroz
+3,en un café o restaurante,la bebida,drink,Una cosa para beber.,2828,null
+3,en un café o restaurante,el bistec,steak,picture,0,bistec
+3,en un café o restaurante,el café,coffee,picture,1250,cafe
+3,en un café o restaurante,la cena,dinner/ supper,La comida al final del día.,2971,null
+3,en un café o restaurante,el cereal,cereal,picture,0,cereal
+3,en un café o restaurante,la cerveza,beer,picture,3134,cerveza
+3,en un café o restaurante,el ceviche,dish of marinated raw fish,picture,0,ceviche
+3,en un café o restaurante,la comida,food; meal; dinnner/ supper,MC,873,null
+3,en un café o restaurante,el desayuno,breakfast,La comida en la mañana.,3157,null
+3,en un café o restaurante,la ensalada,salad,picture,0,ensalada
+3,en un café o restaurante,los espaguetis/los tallarines,spaghetti,picture,0,espaguetis
+3,en un café o restaurante,los frijoles,beans,picture,0,frijoles
+3,en un café o restaurante,la fruta,fruit,picture,1701,fruta
+3,en un café o restaurante,la hamburguesa,hamburger,picture,0,hamburguesa
+3,en un café o restaurante,el helado,ice cream,picture,2987,helado
+3,en un café o restaurante,el huevo,egg,picture,1900,huevo
+3,en un café o restaurante,el jamón,ham,picture,0,jamon
+3,en un café o restaurante,el jugo,juice,picture,3712,jugo
+3,en un café o restaurante,la leche,milk,picture,1334,leche
+3,en un café o restaurante,la lechuga,lettuce,picture,0,lechuga
+3,en un café o restaurante,la naranja,orange,picture,2950,naranja
+3,en un café o restaurante,el pan tostado/la tostada,toast,picture,0,pan tostado
+3,en un café o restaurante,la papa,potato,picture,2669,papa
+3,en un café o restaurante,las papas fritas,French fries,picture,0,papas fritas
+3,en un café o restaurante,el pescado,fish,picture,2584,pescado
+3,en un café o restaurante,el pollo,chicken,picture,3231,pollo
+3,en un café o restaurante,el queso,cheese,picture,3182,queso
+3,en un café o restaurante,el refresco,soda/ soft drink,picture,0,refresco
+3,en un café o restaurante,el sándwich,sandwich,picture,0,sandwich
+3,en un café o restaurante,la sopa,soup,picture,3795,sopa 
+3,en un café o restaurante,el té,tea,picture,2145,te
+3,en un café o restaurante,el tomate,tomato,picture,3920,tomate
+3,en un café o restaurante,el vegetal/la verdura,vegetable,picture,3304,vegetal
+3,en un café o restaurante,el vino,wine,picture,917,vino
+3,title,palabras y expresiones útiles,useful words and expressions,MC,0,null
+3,palabras y expresiones útiles,¿adónde?,where (to)?,MC,3926,null
+3,palabras y expresiones útiles,al (contraction of a + el),to the,MC,5,null
+3,palabras y expresiones útiles,¡Claro!,of course!,MC,259,null
+3,palabras y expresiones útiles,cerca de,close to/ near,MC,391,null
+3,palabras y expresiones útiles,después/ luego,after/ later,MC,87,null
+3,palabras y expresiones útiles,durante,during,Sinónimo de mientras.,148,null
+3,palabras y expresiones útiles,¡estupendo!,fabulous!,MC,3478,null
+3,palabras y expresiones útiles,felicidades,congratulations,MC,1892,null
+3,palabras y expresiones útiles,mientras,while,Sinónimo de durante.,154,null
+3,palabras y expresiones útiles,otro/a,other/ another,MC,31,null
+3,palabras y expresiones útiles,¿qué te parece?,what do you think?,MC,81,null
+3,palabras y expresiones útiles,si,if,MC,34,null
+3,title,expesiones que indican un tiempo futuro,expressions that denote future time,MC,0,null
+3,expesiones que indican un tiempo futuro,después,afterward,Sinónimo de más tarde.,87,null
+3,expesiones que indican un tiempo futuro,más tarde,later,Sinónimo de después.,242,null
+3,expesiones que indican un tiempo futuro,esta noche,tonight,MC,196,null
+3,expesiones que indican un tiempo futuro,mañana,tomorrow,El día después de hoy.,401,null
+3,expesiones que indican un tiempo futuro,pasado mañana,the day after tomorrow,El día después de mañana.,445,null
+3,expesiones que indican un tiempo futuro,la próxima semana,next week,La semana después de esta semana.,440,null
+3,expesiones que indican un tiempo futuro,el próximo mes/año,next month/year,El mes/año después de este mes/año.,440,null
+3,title,los números,numbers,MC,0,null
+3,los números,cien/ciento,one hundred,100,0,null
+3,los números,doscientos/as,two hundred,200,2344,null
+3,los números,trescientos/as,three hundred,300,3341,null
+3,los números,cuatrocientos/as,four hundred,400,0,null
+3,los números,quinientos/as,five hundred,500,3426,null
+3,los números,seiscientos/as,six hundred,600,0,null
+3,los números,setecientos/as,seven hundred,700,0,null
+3,los números,ochocientos/as,eight hundred,800,0,null
+3,los números,novecientos/as,nine hundred,900,0,null
+3,los números,mil,one thousand,1000,217,null
+3,los números,mil cien,one thousand ten,1010,0,null
+3,los números,dos mil,two thousand,2000,56,null
+3,los números,diez mil,ten thousand,10000,346,null
+3,los números,cien mil,one hundred thousand,100000,0,null
+3,los números,ciento cincuenta mil,one hundred fifty thousand,150000,300,null
+3,los números,quinientos mil,five hundred thousand,500000,3426,null
+3,los números,un millón (de),one million,1000000,523,null
+3,los números,dos millones (de),two million,2000000,523,null

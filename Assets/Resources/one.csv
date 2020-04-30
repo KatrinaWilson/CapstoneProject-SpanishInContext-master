@@ -1,0 +1,128 @@
+Chapter,Section,Vocab Item,Translation,Prompt Category,Frequency,PictureName
+1,title,las materias o asignaturas,subjects,MC,0,null
+1,las materias o asignaturas,la antropología,anthropology,Estudiar personas.,0,null
+1,las materias o asignaturas,la arquitectura,architecture,Estudiar casas.,2516,null
+1,las materias o asignaturas,las ciencias políticas,political science,Estudiar derechos.,284,null
+1,las materias o asignaturas,la economía,economics,Estudiar el dinero.,1504,null
+1,las materias o asignaturas,el español,Spanish,MC,285,null
+1,las materias o asignaturas,la estadística,statistics,Estudiar matemáticas.,3339,null
+1,las materias o asignaturas,la geografía,geography,Estudiar lugares.,2670,null
+1,las materias o asignaturas,la historia,history,MC,192,null
+1,las materias o asignaturas,la informática/la computación,computer science,Estudiar computadoras.,0,null
+1,las materias o asignaturas,la literatura,literature,Estudiar libros.,1090,null
+1,las materias o asignaturas,la psicología,psychology,MC,4437,null
+1,las materias o asignaturas,la sociología,sociology,MC,0,null
+1,title,los lugares,places,MC,0,null
+1,los lugares,la biblioteca,library,Lugar para leer.,1825,null
+1,los lugares,el café,café/ coffee shop,MC,1250,null
+1,los lugares,la cafetería,cafeteria,Lugar para comer.,0,null
+1,los lugares,la casa,house/ home,MC,116,null
+1,los lugares,la discoteca,dance club,Lugar para bailar.,0,null
+1,los lugares,el gimnasio,gymnasium,MC,0,null
+1,los lugares,el laboratorio,laboratory,Lugar para las ciencias.,2264,null
+1,los lugares,la librería,bookstore,Lugar para comprar libros.,4577,null
+1,los lugares,la oficina,office,Lugar para trabajar.,1113,null
+1,los lugares,la playa,beach,MC,1713,null
+1,los lugares,la plaza,plaza/ square,MC,1020,null
+1,los lugares,la universidad,university,Lugar para aprender.,1473,null
+1,title,las facultades,schools/ departments,MC,0,null
+1,las facultades,de Ciencias,of Sciences,MC,775,null
+1,las facultades,de Derecho,of Law,MC,427,null
+1,las facultades,de Humanidades,of Humanities,MC,1566,null
+1,las facultades,de Informática,of Computer Science,MC,0,null
+1,las facultades,de Medicina,of Medicine,MC,1725,null
+1,title,las personas,people,MC,0,null
+1,las personas,el alumno/la alumna,student,MC,969,null
+1,las personas,el compañero/la compañera,partner/ classmate,MC,693,null
+1,las personas,el dependiente/la dependienta,salesperson,MC,0,null
+1,las personas,ellos/ellas,they,MC,41,null
+1,las personas,nosotros/nosotras,we,MC,191,null
+1,las personas,ustedes,you (plural),MC,269,null
+1,las personas,vosotros/as,you (plural),MC,4132,null
+1,title,palabras y expreciones útiles,useful words and expressions,MC,0,null
+1,palabras y expreciones útiles,ahora,now,MC,85,null
+1,palabras y expreciones útiles,algo,something,MC,101,null
+1,palabras y expreciones útiles,¡Buena suerte!,Good luck!,MC,725,null
+1,palabras y expreciones útiles,¿Cómo te va?,How is it going?,MC,126,null
+1,palabras y expreciones útiles,con,with,MC,13,null
+1,palabras y expreciones útiles,¿Cuántas clases tienes?,How many classes do you have?,MC,288,null
+1,palabras y expreciones útiles,¿Cuánto cuesta?,How much is it?,picture,626,cuanto cuesta
+1,palabras y expreciones útiles,el diccionario,dictionary,picture,4223,diccionario
+1,palabras y expreciones útiles,este/a,this,MC,29,null
+1,palabras y expreciones útiles,el examen,test,MC,1286,null
+1,palabras y expreciones útiles,el euro,euro,picture,0,euro
+1,palabras y expreciones útiles,el fin de semana,weekend,MC,156,null
+1,palabras y expreciones útiles,el mapa,map,picture,2185,mapa
+1,palabras y expreciones útiles,para,for/ to,MC,15,null
+1,palabras y expreciones útiles,pero,but,MC,23,null
+1,palabras y expreciones útiles,porque,because,MC,38,null
+1,palabras y expreciones útiles,¡Qué lástima!,What a pity!,MC,3294,null
+1,palabras y expreciones útiles,solo,only,MC,102,null
+1,palabras y expreciones útiles,también,also,MC,53,null
+1,palabras y expreciones útiles,la tarea,homework,MC,585,null
+1,palabras y expreciones útiles,tengo/tienes,I have/you have,MC,18,null
+1,palabras y expreciones útiles,¿verdad?,right?,MC,209,null
+1,title,las descripciones,descriptions,MC,0,null
+1,las descripciones,aburrido/a,boring,MC,2813,null
+1,las descripciones,antiguo/a,old,MC,348,null
+1,las descripciones,bueno/a,good,picture,115,bueno
+1,las descripciones,difícil,difficult,MC,314,null
+1,las descripciones,estudioso/a,studious,MC,3940,null
+1,las descripciones,excelente,excellent,MC,1273,null
+1,las descripciones,fácil,easy,MC,514,null
+1,las descripciones,favorito/a,favorite,MC,2699,null
+1,las descripciones,grande,big,picture,62,grande
+1,las descripciones,interesante,interesting,MC,762,null
+1,las descripciones,malo/a,bad,picture,275,malo
+1,las descripciones,norteamericano/a,North American,MC,1246,null
+1,las descripciones,pequeño/a,small,picture,184,pequeno
+1,title,palabras interrogativas,interrogative words,MC,0,null
+1,palabras interrogativas,¿cómo?,how?/what?,MC,126,null
+1,palabras interrogativas,¿cuándo?,when?,MC,1199,null
+1,palabras interrogativas,¿cuál(es)?,which?,MC,395,null
+1,palabras interrogativas,¿cuánto/a?,how much?,MC,723,null
+1,palabras interrogativas,¿cuántos/as?,how many?,MC,723,null
+1,palabras interrogativas,¿dónde?,where?,MC,421,null
+1,palabras interrogativas,¿para qué?,why?/what for?,MC,15,null
+1,palabras interrogativas,¿por qué?,why?,MC,12,null
+1,palabras interrogativas,¿qué?,what?,MC,47,null
+1,palabras interrogativas,¿quién(es)?,who?,MC,292,null
+1,title,expreciones de frecuencia,expressions of frequency,MC,0,null
+1,expreciones de frecuencia,a veces,sometimes,MC,44,null
+1,expreciones de frecuencia,muchas veces,many times,MC,44,null
+1,expreciones de frecuencia,nunca,never,El opuesto de siempre.,151,null
+1,expreciones de frecuencia,siempre,always,El opuesto de nunca.,90,null
+1,expreciones de frecuencia,todas las semanas,every week,MC,304,null
+1,expreciones de frecuencia,todos los días/meses,every day/month,MC,71,null
+1,title,verbos,verbs,MC,0,null
+1,verbos,aprender,to learn,MC,422,null
+1,verbos,asistir,to attend,MC,822,null
+1,verbos,bailar,to dance,picture,2071,bailar
+1,verbos,beber,to drink,picture,1476,beber
+1,verbos,buscar,to look for,picture,173,buscar
+1,verbos,caminar,to walk,picture,919,caminar
+1,verbos,comer,to eat,picture,389,comer
+1,verbos,comprar,to buy,picture,437,comprar
+1,verbos,comprender,to understand,MC,306,null
+1,verbos,conversar,to talk/ to converse,picture,2507,conversar
+1,verbos,correr,to run,picture,332,correr
+1,verbos,deber,should,MC,75,null
+1,verbos,escribir,to write,picture,187,escribir
+1,verbos,escuchar,to listen (to),picture,360,escuchar
+1,verbos,estar,to be,MC,17,null
+1,verbos,estudiar,to study,MC,328,null
+1,verbos,hablar,to speak,picture,92,hablar
+1,verbos,leer,to read,picture,244,leer
+1,verbos,llegar,to arrive,MC,66,null
+1,verbos,mirar,to look (at),picture,142,mirar
+1,verbos,montar (en bicicleta),to ride (a bicycle),picture,998,montar
+1,verbos,necesitar,to need,MC,229,null
+1,verbos,participar,to participate,MC,750,null
+1,verbos,practicar,to practice,MC,1303,null
+1,verbos,responder,to respond,picture,456,responder
+1,verbos,sacar buenas/malas notas,to get good/bad grades,picture,853,sacar buenas o malas notas
+1,verbos,tomar,to take/ to drink,Sinónimo de beber,122,null
+1,verbos,tomar apuntes/notas,to take notes,MC,3599,null
+1,verbos,trabajar,to work,MC,183,null
+1,verbos,ver,to see,Sinónimo de mirar.,37,null
+1,verbos,vivir,to live,MC,128,null

@@ -1,0 +1,234 @@
+Chapter,Section,Vocab Item,Translation,Prompt Category,Frequency,PictureName
+0,title,las presentaciones,introductions,MC,0,null
+0,las presentaciones,¿Cómo se llama usted?,What´s your name? (formal),MC,104,null
+0,las presentaciones,¿Cómo te llamas?,What´s your name? (familiar),MC,104,null
+0,las presentaciones,Encantado/a.,Pleased/nice to meet you.,MC,3264,null
+0,las presentaciones,Igualmente.,Likewise.,MC,1431,null
+0,las presentaciones,Me llamo...,My name is...,MC,104,null
+0,las presentaciones,Mucho gusto.,Pleased/nice to meet you.,MC,593,null
+0,title,los saludos,greetings,MC,0,null
+0,los saludos,bastante,rather,MC,270,null
+0,los saludos,bien,well,MC,73,null
+0,los saludos,buenas tardes/buenas noches,good afternoon/good evening/ good night,MC,196,null
+0,los saludos,buenos días,good morning,MC,71,null
+0,los saludos,¿Cómo está?,How are you? (formal),MC,126,null
+0,los saludos,¿Cómo estás?,How are you? (familiar),MC,126,null
+0,los saludos,hola,hi/ hello,MC,4752,null
+0,los saludos,mal,bad,MC,301,null
+0,los saludos,muy,very,MC,42,null
+0,los saludos,regular,fair (so so),MC,1956,null
+0,los saludos,¿Qué tal?,What´s up? What´s new? (informal),MC,120,null
+0,title,las despedidas,leavetaking,MC,0,null
+0,las despedidas,adiós,good-bye,MC,2557,null
+0,las despedidas,chao/chau,good-bye,MC,0,null
+0,las despedidas,hasta luego,see you later,MC,132,null
+0,las despedidas,hasta mañana,see you tomorrow,MC,401,null
+0,las despedidas,hasta pronto,see you soon,MC,396,null
+0,title,expreciones de cortesía,courtesy expressions,MC,0,null
+0,expreciones de cortesía,con permiso,pardon me/ excuse me,MC,1753,null
+0,expreciones de cortesía,de nada,you´re welcome,MC,95,null
+0,expreciones de cortesía,gracias,thanks,MC,272,null
+0,expreciones de cortesía,lo siento,I´m sorry (to hear that),MC,131,null
+0,expreciones de cortesía,perdón,pardon me/ excuse me,MC,2240,null
+0,expreciones de cortesía,por favor,please,MC,468,null
+0,title,en el salón de clase,in the classroom,MC,0,null
+0,en el salón de clase,el bolígrafo,ballpoint pen,picture,0,el bolígrafo
+0,en el salón de clase,el borrador,eraser,picture,0,el borrador
+0,en el salón de clase,la calculadora,calculator,picture,0,calculadora
+0,en el salón de clase,el cesto,wastebasket,picture,0,cesto
+0,en el salón de clase,la computadora,computer,picture,4253,computadora
+0,en el salón de clase,la computadora portátil,laptop,picture,0,laptop
+0,en el salón de clase,el cuaderno,notebook,picture,3220,cuaderno
+0,en el salón de clase,el toca DVD,DVD player,picture,325,toca DVD
+0,en el salón de clase,el escritorio,desk,picture,3539,escritorio
+0,en el salón de clase,el lápiz,pencil,picture,3296,lapiz
+0,en el salón de clase,el libro,book,picture,253,libro
+0,en el salón de clase,el marcador/el rotulador,marker,picture,0,marcador
+0,en el salón de clase,la mesa,table,picture,461,mesa
+0,en el salón de clase,la mochila,backpack,picture,0,mochila
+0,en el salón de clase,la pantalla,screen,picture,2330,pantalla
+0,en el salón de clase,la pizarra,chalkboard,picture,0,pizarra
+0,en el salón de clase,la puerta,door,picture,354,puerta
+0,en el salón de clase,el reloj,clock,picture,1685,reloj
+0,en el salón de clase,la silla,chair,picture,1307,silla
+0,en el salón de clase,la tableta,tablet,picture,0,tableta
+0,en el salón de clase,el televisor,television set,picture,3250,televisor
+0,en el salón de clase,la ventana,window,picture,1265,ventana
+0,title,las personas,people,MC,0,null
+0,las personas,el amigo/la amiga,friend,MC,262,null
+0,las personas,el chico/la chica,boy/girl,MC,1079,null
+0,las personas,el doctor/la doctora,doctor,MC,778,null
+0,las personas,él,he,MC,41,null
+0,las personas,ella,she,MC,69,null
+0,las personas,el/la estudiante,student,MC,1019,null
+0,las personas,el profesor/la profesora,professor/ teacher,MC,621,null
+0,las personas,el señor (Sr.),Mr.,MC,240,null
+0,las personas,la señora (Sra.),Ms./ Mrs.,MC,976,null
+0,las personas,la señorita (Srta.),Ms/ Miss,MC,2622,null
+0,las personas,tú,you (familiar),MC,554,null
+0,las personas,usted,you (formal),MC,269,null
+0,las personas,yo,I,MC,52,null
+0,title,la posición,position,MC,0,null
+0,la posición,al lado (de),next to,MC,165,null
+0,la posición,debajo (de),under,MC,820,null
+0,la posición,detrás (de),behind,MC,701,null
+0,la posición,enfrente (de),in front of,MC,2541,null
+0,la posición,entre,between/ among,MC,58,null
+0,la posición,sobre,on/ above,MC,48,null
+0,title,el tiempo,the weather,MC,0,null
+0,el tiempo,Hace buen/mal tiempo.,The weather is good/bad.,MC,68,null
+0,el tiempo,Hace sol.,It´s sunny.,picture,686,hace sol
+0,el tiempo,Llueve./Está lloviendo.,It´s raining.,picture,2053,lluve
+0,el tiempo,¿Qué tiempo hace?,What´s the weather like?,MC,68,null
+0,title,verbos,verbs,MC,0,null
+0,verbos,eres,you are (familiar),MC,8,null
+0,verbos,es,you are (formal)/ he/she is,MC,8,null
+0,verbos,está,he/she is/ you are (formal),MC,17,null
+0,verbos,estás,you are (familiar),MC,17,null
+0,verbos,hay,there is/ there are,MC,11,null
+0,verbos,soy,I am,MC,8,null
+0,title,palabras y expreciones útiles,useful words and expressions,MC,0,null
+0,palabras y expreciones útiles,a,at/ to,MC,5,null
+0,palabras y expreciones útiles,el año,year,MC,55,null
+0,palabras y expreciones útiles,¿Cómo es?,What is he/she/it like?,MC,126,null
+0,palabras y expreciones útiles,el día,day,MC,71,null
+0,palabras y expreciones útiles,¿Dónde está...?,Where is...?,MC,421,null
+0,palabras y expreciones útiles,el/la,the,MC,1,null
+0,palabras y expreciones útiles,en,in,MC,6,null
+0,palabras y expreciones útiles,ese/a,that (adjective),MC,32,null
+0,palabras y expreciones útiles,el/la,the,MC,1,null
+0,palabras y expreciones útiles,hoy,today,MC,164,null
+0,palabras y expreciones útiles,la mañana,morning,MC,401,null
+0,palabras y expreciones útiles,mañana,tomorrow,MC,401,null
+0,palabras y expreciones útiles,más o menos,more or less,MC,24,null
+0,palabras y expreciones útiles,el mes,month,MC,210,null
+0,palabras y expreciones útiles,mi(s),my,MC,49,null
+0,palabras y expreciones útiles,¿Quién es...?,Who is...?,MC,292,null
+0,palabras y expreciones útiles,la semana,week,MC,304,null
+0,palabras y expreciones útiles,sí,yes,MC,70,null
+0,palabras y expreciones útiles,tu(s),your (familiar),MC,349,null
+0,palabras y expreciones útiles,un/una,a/ an,MC,7,null
+0,palabras y expreciones útiles,y,and,MC,4,null
+0,title,los meses del año,months of the year,MC,0,null
+0,los meses del año,enero,January,diciembre/ .../ febrero,1449,null
+0,los meses del año,febrero,February,enero/ .../ marzo,1722,null
+0,los meses del año,marzo,March,febrero/ .../ abril,2002,null
+0,los meses del año,abril,April,marzo/ .../ mayo,1922,null
+0,los meses del año,mayo,May,abril/ .../ junio,1422,null
+0,los meses del año,junio,June,mayo/ .../ julio,2349,null
+0,los meses del año,julio,July,junio/ .../ agosto,1559,null
+0,los meses del año,agosto,August,julio/ .../ septiembre,1244,null
+0,los meses del año,septiembre,September,agosto/ .../ octubre,2574,null
+0,los meses del año,octubre,October,septiembre/ .../ noviembre,1688,null
+0,los meses del año,noviembre,November,octubre/ .../ diciembre,2148,null
+0,los meses del año,diciembre,December,noviembre/ .../ enero,1341,null
+0,title,los días de la semana,days of the week,MC,0,null
+0,los días de la semana,lunes,Monday,domingo/ .../ martes,2187,null
+0,los días de la semana,martes,Tuesday,lunes/ .../ miércoles,3490,null
+0,los días de la semana,miércoles,Wednesday,martes/ .../ jueves,3431,null
+0,los días de la semana,jueves,Thursday,miércoles/ .../ viernes,2606,null
+0,los días de la semana,viernes,Friday,jueves/ .../ sábado,2483,null
+0,los días de la semana,sábado,Saturday,viernes/ .../ domingo,1816,null
+0,los días de la semana,domingo,Sunday,sábado/ .../ lunes,1121,null
+0,title,expresiones útiles en la clase,useful expresions in class,MC,0,null
+0,expresiones útiles en la clase,¿Cómo se dice... en español?,How do you say... in Spanish?,MC,28,null
+0,expresiones útiles en la clase,¿Comprenden?/¿Comprendes?,Do you understand?,MC,306,null
+0,expresiones útiles en la clase,Contesten/ por favor./Contesta/ por favor.,Please answer.,MC,764,null
+0,expresiones útiles en la clase,¿En qué página?,On what page?,MC,1135,null
+0,expresiones útiles en la clase,Dile a tu compañero/a...,Tell your partner...,MC,28,null
+0,expresiones útiles en la clase,Escribe.,Write.,MC,187,null
+0,expresiones útiles en la clase,Hable (sobre...),Talk (about...),MC,92,null
+0,expresiones útiles en la clase,Lee.,Read.,MC,244,null
+0,expresiones útiles en la clase,Levanta la mano.,Raise your hand.,MC,372,null
+0,expresiones útiles en la clase,Más alto/ por favor.,Louder/ please.,MC,185,null
+0,expresiones útiles en la clase,Más despacio/lento/ por favor.,More slowly/ please.,MC,3398,null
+0,expresiones útiles en la clase,No comprendo.,I don´t understand.,MC,306,null
+0,expresiones útiles en la clase,No sé.,I don´t know.,MC,46,null
+0,expresiones útiles en la clase,Otra vez.,Again.,MC,44,null
+0,expresiones útiles en la clase,Presente.,Here (present).,MC,802,null
+0,expresiones útiles en la clase,Repite./Repitan.,Repeat.,MC,382,null
+0,expresiones útiles en la clase,Túrnense.,Take turns.,MC,0,null
+0,expresiones útiles en la clase,La tarea/ por favor.,Homework please.,MC,585,null
+0,expresiones útiles en la clase,¿Tienen preguntas?/¿Tienes preguntas?,Do you have any questions?,MC,481,null
+0,expresiones útiles en la clase,Vayan a la pizarra./Ve a la pizarra.,Go to the board.,MC,30,null
+0,title,cognados,cognates,MC,0,null
+0,cognados,arrogante,arrogant,picture,0,arrogante
+0,cognados,eficiente,efficient,picture,3571,eficiente
+0,cognados,elegante,elegant,picture,1918,elegante
+0,cognados,idealista,idealistic,picture,0,idealista
+0,cognados,importante,important,picture,207,importante
+0,cognados,independiente,independent,picture,1291,independiente
+0,cognados,inteligente,intelligent,picture,1447,inteligente
+0,cognados,interesante,interesting,picture,762,interesante
+0,cognados,optimista,optimistic,picture,3030,optimista
+0,cognados,paciente,patient,picture,1511,paciente
+0,cognados,perfectionista,perfectionistic,picture,0,perfecctionista
+0,cognados,pesimista,pessimistic,picture,0,pesimista
+0,cognados,popular,popular,picture,709,popular
+0,cognados,responsable,responsable,picture,955,responsable
+0,cognados,sentimental,sentimental,picture,2646,sentimental
+0,cognados,tradicional,traditional,picture,1309,tradicional
+0,cognados,activo/a,active,picture,1328,activo
+0,cognados,ambicioso/a,ambitious,picture,3310,ambicioso
+0,cognados,atlético/a,athletic,picture,0,atletico
+0,cognados,atractivo/a,atractive,picture,2131,atractivo
+0,cognados,cómico/a,comical,picture,3485,comico
+0,cognados,creativo/a,creative,picture,3551,creativo
+0,cognados,dinámico/a,dynamic,picture,4064,dinamico
+0,cognados,extrovertido/a,extroverted,picture,0,extrovertido
+0,cognados,generoso/a,generous,picture,2398,generoso
+0,cognados,impulsivo/a,impulsive,picture,0,impulsivo
+0,cognados,introvertido/a,introverted,picture,0,introvertido
+0,cognados,moderno/a,modern,picture,671,moderno
+0,cognados,nervioso/a,nervous,picture,1410,nervioso
+0,cognados,pasivo/a,passive,picture,4317,nerviosa
+0,cognados,religioso/a,religious,picture,886,pasivo
+0,cognados,romántico/a,romantic,picture,2338,religioso
+0,cognados,serio/a,serious,picture,545,romantico
+0,cognados,sincero/a,sincere,picture,2915,serio
+0,cognados,tímido/a,timid,picture,2795,sincero
+0,cognados,tranquilo/a,calm,picture,1144,timido
+0,title,los números,numbers,MC,0,tranquila
+0,los números,cero,zero,0,2284,null
+0,los números,uno,one,1,72,null
+0,los números,dos,two,2,56,null
+0,los números,tres,three,3,119,null
+0,los números,cuatro,four,4,188,null
+0,los números,cinco,five,5,231,null
+0,los números,seis,six,6,375,null
+0,los números,siete,seven,7,470,null
+0,los números,ocho,eight,8,492,null
+0,los números,nueve,nine,9,786,null
+0,los números,diez,ten,10,346,null
+0,los números,once,eleven,11,1455,null
+0,los números,doce,twelve,12,823,null
+0,los números,trece,thirteen,13,2115,null
+0,los números,catorce,fourteen,14,2278,null
+0,los números,quince,fifteen,15,1033,null
+0,los números,dieciséis,sixteen,16,2793,null
+0,los números,diecisiete,seventeen,17,3446,null
+0,los números,dieciocho,eighteen,18,2694,null
+0,los números,diecinueve,nineteen,19,0,null
+0,los números,veinte,twenty,20,582,null
+0,los números,veintiuno,twenty-one,21,0,null
+0,los números,veintidós,twenty-two,22,4873,null
+0,los números,vientitrés,twenty-three,23,0,null
+0,los números,treinta,thirty,30,722,null
+0,los números,treinta y uno,thirty-one,31,722,null
+0,los números,cuarenta,forty,40,943,null
+0,los números,cincuenta,fifty,50,782,null
+0,los números,sesenta,sixty,60,1306,null
+0,los números,setenta,seventy,70,1773,null
+0,los números,ochenta,eighty,80,2120,null
+0,los números,noventa,ninety,90,3417,null
+0,title,decir la hora,telling time,MC,0,null
+0,decir la hora,¿Qué hora es?,What time is it?,MC,143,null
+0,decir la hora,Es la.../Son las...,It is...,MC,8,null
+0,decir la hora,y cuarto/y quince,and a quarter/fifteen,MC,655,null
+0,decir la hora,y media/y treinta,and a half/thirty,MC,2342,null
+0,decir la hora,menos,to/till,MC,98,null
+0,decir la hora,y + minutos,and + minutes,MC,4,null
+0,decir la hora,en punto,on the dot/sharp,MC,147,null
+0,decir la hora,de la mañana,(from midnight to noon),MC,401,null
+0,decir la hora,de la tarde,(from noon to nightfall),MC,242,null
+0,decir la hora,de la noche,(from nightfall to midnight),MC,196,null

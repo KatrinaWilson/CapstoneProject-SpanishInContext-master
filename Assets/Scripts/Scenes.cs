@@ -1,0 +1,31 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+public class Scenes : MonoBehaviour
+{
+	public void StartPlay()
+	{
+		SceneManager.LoadScene("MainLevel");
+	}
+	public void PlayAgain()
+	{
+		SceneManager.LoadScene("Open");
+	}
+	public void ExitGame()
+	{
+		// exit the game for real play
+		//Application.Quit();
+		//does not work in Unity since it would  lose all settings. so:
+		//UnityEditor.EditorApplication.isPlaying = false;
+
+		#if UNITY_EDITOR
+				UnityEditor.EditorApplication.isPlaying = false;
+		#else
+						 Application.Quit();
+		#endif
+	}
+
+
+}

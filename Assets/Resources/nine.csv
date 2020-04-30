@@ -1,0 +1,85 @@
+Chapter,Section,Vocab Item,Translation,Prompt Category,Frequency,PictureName
+9,title,las profesiones/ oficios y ocupaciones,professions/ trades/ and occupations,MC,0,null
+9,las profesiones/ oficios y ocupaciones,el/la abogado/a,lawyer,Persona que habla con el juez.,1680,null
+9,las profesiones/ oficios y ocupaciones,el actor/la actriz,actor/actress,Persona en una película.,1705,null
+9,las profesiones/ oficios y ocupaciones,el/la agricultor/a,farmer,Persona que cultiva comida.,4794,null
+9,las profesiones/ oficios y ocupaciones,el ama/o de casa,housewife/ homemaker,Persona que trabaja en la casa.,2787,null
+9,las profesiones/ oficios y ocupaciones,el/la arquitecto/a,architect,Persona que hace dibujos de edificios.,2808,null
+9,las profesiones/ oficios y ocupaciones,el/la bibliotecario/a,librarian,Persona que trabaja con libros.,0,null
+9,las profesiones/ oficios y ocupaciones,el/la bombero/a,firefighter,Persona que trabaja con incendios.,0,null
+9,las profesiones/ oficios y ocupaciones,el/la cajero/a,cashier,Persona que tiene el dinero en la tienda.,0,null
+9,las profesiones/ oficios y ocupaciones,el/la carpintero/a,carpenter,Persona que hace muebles.,0,null
+9,las profesiones/ oficios y ocupaciones,el/la chef,chef,Persona que cocina.,0,null
+9,las profesiones/ oficios y ocupaciones,el/la chofer,driver,Persona que controla el auto.,0,null
+9,las profesiones/ oficios y ocupaciones,el/la científico/a,scientist,Persona que estudia la ciencia.,1634,null
+9,las profesiones/ oficios y ocupaciones,el/la contador/a,accountant,Persona que ordena dinero.,0,null
+9,las profesiones/ oficios y ocupaciones,el/la contratista,contractor,Persona que hace trabajos para otros.,0,null
+9,las profesiones/ oficios y ocupaciones,el/la ejecutivo/a,executive,Jefe de una compañía grande.,3065,null
+9,las profesiones/ oficios y ocupaciones,el/la electricista,electrician,Persona que trae luz.,0,null
+9,las profesiones/ oficios y ocupaciones,el/la empleado/a,employee,Persona que trabaja para otra persona.,1104,null
+9,las profesiones/ oficios y ocupaciones,el/la enfermero/a,nurse,Persona que ayuda a los médicos.,3122,null
+9,las profesiones/ oficios y ocupaciones,el/la gerente (de ventas),(sales) manager,Jefe de una tienda.,0,null
+9,las profesiones/ oficios y ocupaciones,el hombre/la mujer de negocios,businessman/woman,Empleado de una compañía.,864,null
+9,las profesiones/ oficios y ocupaciones,el/la ingeniero/a,engineer,Persona que hace cosas nuevas.,1761,null
+9,las profesiones/ oficios y ocupaciones,el/la intérpete,interpreter,Persona que entiende idiomas.,0,null
+9,las profesiones/ oficios y ocupaciones,el/la jefe/a,boss,Persona que tiene empleados.,761,null
+9,las profesiones/ oficios y ocupaciones,el/la juez,judge,Persona que escucha a los abogados.,1259,null
+9,las profesiones/ oficios y ocupaciones,el/la locutor/a,radio announcer,Persona que habla en la radio.,0,null
+9,las profesiones/ oficios y ocupaciones,el/la médico/a,medical doctor,Persona que trabaja con la medicina.,564,null
+9,las profesiones/ oficios y ocupaciones,el/la obrero/a,worker,Persona que es parte de la fuerza laboral.,2243,null
+9,las profesiones/ oficios y ocupaciones,el/la peluquero/a,hairdresser,Persona que trabaja con el pelo.,0,null
+9,las profesiones/ oficios y ocupaciones,el/la periodista,journalist,Persona que escribe para periódicos.,1464,null
+9,las profesiones/ oficios y ocupaciones,el/la plomero/a,plumber,Persona que trabaja con agua.,0,null
+9,las profesiones/ oficios y ocupaciones,el/la policía,policeman/woman,Persona que encierra a personas malas.,1017,null
+9,las profesiones/ oficios y ocupaciones,el/la (p)sicólogo/a,psychologist,Persona que trabaja con personas con problemas.,4604,null
+9,las profesiones/ oficios y ocupaciones,el/la técnico/a,technician,Persona que trabaja con autos.,1480,null
+9,las profesiones/ oficios y ocupaciones,el/la vendedor/a,salesman/ saleswoman,Persona que vende cosas.,2266,null
+9,title,verbos,verbs,MC,0,null
+9,verbos,apagar,to extinguish/ turn off,El opuesto de poner (una película).,2104,null
+9,verbos,cosechar,to harvest,Tomar comida del terreno.,0,null
+9,verbos,cultivar,to grow/ cultivate,Sinónimo de hacer crecer.,1936,null
+9,verbos,dejar,to leave,El opuesto de tomar.,94,null
+9,verbos,enviar,to send,Sinónimo de mandar.,842,null
+9,verbos,esperar,to wait for,No hacer nada por un tiempo.,163,null
+9,verbos,explotar,to exploit,Tomar las cosas buenas.,1938,null
+9,verbos,llenar,to fill (out),Sinónimo de escribir.,925,null
+9,verbos,mandar,to send,Sinónimo de enviar.,529,null
+9,verbos,ofrecer (zc),to offer,Querer dar.,368,null
+9,verbos,solicitar,to apply (for),Sinónimo de pedir.,1384,null
+9,title,los lugares,places,MC,0,null
+9,los lugares,el campo,countryside,Lugar lejos de la ciudad.,295,null
+9,los lugares,la compañía/empresa,company,Lugar donde trabajan las personas de negocio.,798,null
+9,los lugares,el consultorio,office (of doctor/ dentist/ etc.),Lugar donde trabajan los médicos.,0,null
+9,los lugares,la finca,ranch/ farm,Lugar donde trabajan los agricultores.,4294,null
+9,los lugares,el terreno,land,Está debajo de todo.,796,null
+9,title,el trabajo,work,MC,0,null
+9,el trabajo,la agricultura,farming,Los agricultores hacen esto.,3741,null
+9,el trabajo,el anuncio,ad/ advertisement,Información sobre algo.,2114,null
+9,el trabajo,el/la cliente/a,client,Persona que solicita cosas.,1550,null
+9,el trabajo,el currículum,résumé,Información sobre una persona.,0,null
+9,el trabajo,la entrevista,interview,Cuando una persona hace preguntas a otra persona.,1419,null
+9,el trabajo,la experiencia,experience,Las cosas que hizo una persona.,361,null
+9,el trabajo,la exportación,export,Mandar cosas a otro país.,4493,null
+9,el trabajo,la fuente de ingresos,source of income,De dónde viene el dinero.,801,null
+9,el trabajo,la fuerza laboral,workforce,Las personas que trabajan.,255,null
+9,el trabajo,el incendio,fire,picture,2695,incendio
+9,el trabajo,el puesto,position,MC,755,null
+9,el trabajo,la solicitud,application,MC,3540,null
+9,el trabajo,el sueldo,salary/ wage,El dinero por hacer un trabajo.,1770,null
+9,el trabajo,la vacante,opening,MC,0,null
+9,el trabajo,las ventas,sales,MC,1075,null
+9,title,recursos naturales,natural resources,MC,0,null
+9,recursos naturales,el bosque,forest,picture,1506,bosque
+9,recursos naturales,el hierro,iron,picture,1716,hierro
+9,recursos naturales,la madera,wood,picture,987,madera
+9,recursos naturales,el petróleo,petroleum,picture,3427,petroleo
+9,title,palabras y expresiones útiles,useful words and expressions,MC,0,null
+9,palabras y expresiones útiles,actualmente,at the present time,Sinónimo de ahora.,2362,null
+9,palabras y expresiones útiles,agrícola,agricultural,MC,3611,null
+9,palabras y expresiones útiles,en realidad/realmente,in fact/ really,MC,202,null
+9,palabras y expresiones útiles,lo importante,the important thing,La cosa más importante.,207,null
+9,palabras y expresiones útiles,la industria textil,textile industry,Compañías que hacen ropa.,0,null
+9,palabras y expresiones útiles,por cierto,by the way,MC,123,null
+9,palabras y expresiones útiles,propio/a,own,MC,140,null
+9,palabras y expresiones útiles,la señal,signal,MC,1360,null
+9,palabras y expresiones útiles,sin embargo,nevertheless,MC,180,null

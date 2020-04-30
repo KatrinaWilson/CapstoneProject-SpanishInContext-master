@@ -1,0 +1,105 @@
+Chapter,Section,Vocab Item,Translation,Prompt Category,Frequency,PictureName
+7,title,los deportes,sports,MC,0,null
+7,los deportes,al atletismo,track and field,Deportes en que corren mucho.,0,null
+7,los deportes,el baloncesto/el básquetbol,basketball,Deporte con una pelota anaranjada y dos cestos.,0,null
+7,los deportes,el béisbol,baseball,Deporte con una pelota blanca y un bate.,0,null
+7,los deportes,el ciclismo,cycling,Deporte con bicicletas.,0,null
+7,los deportes,el esquí,skiing/ ski,Deporte en el agua o en la nieve.,0,null
+7,los deportes,el fútbol (americano),soccer (football),Deporte con una pelota negra y blanca.,2513,null
+7,los deportes,el golf,golf,Deporte con una pelota pequeña blanca y varios palos.,0,null
+7,los deportes,el hockey sobre hierba,field hockey,Deporte en que cada jugador tiene un palo.,0,null
+7,los deportes,la natación,swimming,Deporte en el agua.,0,null
+7,los deportes,el tenis,tennis,Deporte con una pelota y dos raquetas.,4968,null
+7,los deportes,el vóleibol,volleyball,Deporte que se juega en la playa con una pelota blanca.,0,null
+7,title,el equipo deportivo,sports equipment,MC,0,null
+7,el equipo deportivo,el bate,bat,picture,0,bate
+7,el equipo deportivo,el balón/la pelota,ball,picture,0,pelota
+7,el equipo deportivo,el cesto/la cesta,basket/ hoop,picture,0,cesta
+7,el equipo deportivo,los palos,golf clubs,picture,2012,palos
+7,el equipo deportivo,la raqueta,racquet,picture,0,raqueta
+7,el equipo deportivo,la red,net,picture,1658,red
+7,title,los eventos,events,MC,0,null
+7,los eventos,el campeonato,championship,Cuando muchos equipos compiten por un trofeo.,0,null
+7,los eventos,la carrera,race,Cuando una persona quiere correr más rapido que las otras.,485,null
+7,los eventos,el juego/el partido,game,MC,425,null
+7,title,las personas,people,MC,0,null
+7,las personas,el árbitro,umpire/ referee,picture,0,arbitro
+7,las personas,el campeón/la campeona,champion,La persona que gana un campeonato.,4840,null
+7,las personas,el/la ciclista,cyclist,Persona que monta en bicicleta.,0,null
+7,las personas,el/la entrenador/a,coach,Persona que entrena a los jugadores.,0,null
+7,las personas,el equipo,team; equipment,Grupo de personas que juegan un deporte juntos.,737,null
+7,las personas,el/la hincha,fan,Persona a quien le gusta un equipo mucho.,0,null
+7,las personas,el/la jugador/a,player,Persona que juega a un deporte.,3168,null
+7,las personas,el/la tenista,tennis player,Persona que juega al tenis.,0,null
+7,title,la naturaleza,nature,MC,0,null
+7,la naturaleza,el árbol,tree,picture,833,arbol
+7,la naturaleza,el lago,lake,picture,2680,lago
+7,title,palabras y expresiones útiles,useful words and expressions,MC,0,null
+7,palabras y expresiones útiles,cada,each,MC,96,null
+7,palabras y expresiones útiles,conmigo,with me,MC,1845,null
+7,palabras y expresiones útiles,contigo,with you (familiar),MC,3017,null
+7,palabras y expresiones útiles,contrario/a,opposing,MC,460,null
+7,palabras y expresiones útiles,el penalti,penalty (in sports),Esto pasa cuando haces algo malo en un deporte.,0,null
+7,title,el tiempo,weather,MC,0,null
+7,el tiempo,está despejado,it´s clear,picture,4573,despejado
+7,el tiempo,está nublado,it´s cloudy,picture,0,nublado
+7,el tiempo,hace fresco,it´s cool,MC,2124,null
+7,el tiempo,hace viento,it´s windy,picture,1216,viento
+7,el tiempo,el hielo,ice,picture,2321,hielo
+7,el tiempo,la lluvia,rain,picture,1217,lluvia
+7,el tiempo,la nieve,snow,picture,2423,nieve
+7,title,los lugares,places,MC,0,null
+7,los lugares,el campo,field,MC,295,null
+7,los lugares,la cancha,court/ golf course,MC,4485,null
+7,los lugares,la piscina/la pileta,pool,picture,4653,piscina
+7,los lugares,la pista,slope; court; track,MC,2065,null
+7,title,verbos,verbs,MC,0,null
+7,verbos,congelar(se),to freeze,MC,0,null
+7,verbos,construir,to build/ to develop,Sinónimo de hacer.,525,null
+7,verbos,discutir,to argue,Sinónimo de no estar de acuerdo.,859,null
+7,verbos,durar,to last,Cuanto tiempo algo necesita.,812,null
+7,verbos,enfadarse,to get angry,El opuesto de hacerse feliz.,0,null
+7,verbos,esquiar,to ski,Practicar el esquí.,0,null
+7,verbos,ganar,to win,El opuesto de perder.,286,null
+7,verbos,hacer parapente,to go paragliding,MC,0,null
+7,verbos,hacer surf,to surf,MC,0,null
+7,verbos,ir(se),to go away/ to leave,Sinónimo de salir.,30,null
+7,verbos,jugar (ue) a los bolos,to bowl,Un juego con una pelota negra.,0,null
+7,verbos,levantar pesas,to lift weights,MC,0,null
+7,verbos,llover (ue),to rain,MC,2053,null
+7,verbos,meter un gol,to score a goal,MC,0,null
+7,verbos,nevar (ie),to snow,MC,0,null
+7,verbos,oír,to hear,Sinónimo de escuchar.,263,null
+7,verbos,patinar,to skate,MC,0,null
+7,verbos,perder (ie),to lose,El opuesto de ganar.,190,null
+7,verbos,pitar,to whistle,picture,0,pitar
+7,verbos,preparar(se),to train,MC,499,null
+7,verbos,recorrer,to travel/ to cover (distance),MC,808,null
+7,verbos,traducir (zc),to translate,Cambiar de un idioma a otro.,1603,null
+7,title,las estaciones,seasons,MC,0,null
+7,las estaciones,el invierno,winter,El opuesto del verano.,1340,null
+7,las estaciones,el otoño,fall,El opuesto de la primavera.,3357,null
+7,las estaciones,la primavera,spring,El opuesto del otoño.,2325,null
+7,las estaciones,el verano,summer,El opuesto del invierno.,893,null
+7,title,verbos reflexivos,reflexive verbs,MC,0,null
+7,verbos reflexivos,enfermar(se),to get sick,El opuesto de sentirse bien.,4513,null
+7,verbos reflexivos,preocupar(se),to be worried,El opuesto de estar tranquilo.,766,null
+7,verbos reflexivos,arrepentir(se),to regret,MC,3528,null
+7,verbos reflexivos,atrever(se),to dare,MC,1276,null
+7,verbos reflexivos,divertir(se),to have fun,MC,2356,null
+7,verbos reflexivos,disculpar(se),to apologize,Sinónimo de pedir perdón.,4079,null
+7,verbos reflexivos,quejar(se),to complain,MC,1530,null
+7,verbos reflexivos,sentir(se) (ie),to feel,MC,3690,null
+7,verbos reflexivos,dormir (ue),to sleep,MC,857,null
+7,verbos reflexivos,preferir (ie),to prefer,Cuando te gusta una cosa más que otra.,541,null
+7,verbos reflexivos,despedir(se),to say goodbye,Decir adiós.,1940,null
+7,verbos reflexivos,divertir(se),to have fun,MC,2356,null
+7,title,verbos con cambio en la raíz,stem-changing verbs,MC,0,null
+7,verbos con cambio en la raíz,morir,to die,Cuando una persona deja de vivir.,293,null
+7,verbos con cambio en la raíz,pedir,to ask for/order,MC,204,null
+7,verbos con cambio en la raíz,reír,to laugh,MC,1493,null
+7,verbos con cambio en la raíz,repetir,to repeat,Hacer algo más de una vez.,382,null
+7,verbos con cambio en la raíz,seguir,to follow,Sinónimo de venir después de.,97,null
+7,verbos con cambio en la raíz,sentir(se) (ie),to feel,MC,3690,null
+7,verbos con cambio en la raíz,servir,to serve,Dar algo a alguien.,226,null
+7,verbos con cambio en la raíz,vestir(se) (i),to get dressed,El acto de empezar a llevar ropa.,1317,null

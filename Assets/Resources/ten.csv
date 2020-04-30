@@ -1,0 +1,99 @@
+Chapter,Section,Vocab Item,Translation,Prompt Category,Frequency,PictureName
+10,title,las especias y los condimentos,spices and seasonings,MC,0,null
+10,las especias y los condimentos,el aceite,oil,Se usa para freír.,2076,null
+10,las especias y los condimentos,aderezo,salad dressing,Se pone en la ensalada.,0,null
+10,las especias y los condimentos,el azúcar,sugar,Se usa para tener comida dulce.,2033,null
+10,las especias y los condimentos,las especias,spices,Se usan tener comida más deliciosa.,0,null
+10,las especias y los condimentos,las hierbas,herbs,Plantas pequeñas que se usan para especias/ medicina/ ect.,2850,null
+10,las especias y los condimentos,la mayonesa,mayonnaise,picture,0,mayonesa
+10,las especias y los condimentos,la mostaza,mustard,picture,0,mostaza
+10,las especias y los condimentos,la pimienta,pepper,picture,0,pimienta
+10,las especias y los condimentos,la sal,salt,picture,2608,sal
+10,las especias y los condimentos,la salsa de tomate,tomato sauce,picture,0,salsa de tomate
+10,las especias y los condimentos,la vainilla,vanilla,picture,0,vainilla
+10,las especias y los condimentos,el vinagre,vinegar,picture,0,vinagre
+10,title,las frutas y las verduras,fruits and vegetables,MC,0,null
+10,las frutas y las verduras,el aguacate,avocado,picture,0,aguacate
+10,las frutas y las verduras,el ajo,garlic,picture,0,ajo
+10,las frutas y las verduras,la cebolla,onion,picture,0,cebolla
+10,las frutas y las verduras,la cereza,cherry,picture,0,cereza
+10,las frutas y las verduras,las espinacas,spinach,picture,0,espinacas
+10,las frutas y las verduras,la fresa,strawberry,picture,0,fresas
+10,las frutas y las verduras,el limón,lemon,picture,0,limon
+10,las frutas y las verduras,el maíz,corn,picture,3314,maiz
+10,las frutas y las verduras,la manzana,apple,picture,2853,manzana
+10,las frutas y las verduras,la maracuyá,passion fruit,picture,0,maracuya
+10,las frutas y las verduras,el melón,melon,picture,0,melon
+10,las frutas y las verduras,la papaya,papaya,picture,0,papaya
+10,las frutas y las verduras,el pepino,cucumber,picture,0,pepino
+10,las frutas y las verduras,la pera,pear,picture,0,pera
+10,las frutas y las verduras,el pimiento verde,green pepper,picture,0,pimiento verde
+10,las frutas y las verduras,la piña,pineapple,picture,0,pina
+10,las frutas y las verduras,el plátano/la banana,banana/ plantain,picture,0,platano
+10,las frutas y las verduras,la toronja/el pomelo,grapefruit,picture,0,toronja
+10,las frutas y las verduras,la uva,grape,picture,3682,uva
+10,las frutas y las verduras,la zanahoria,carrot,picture,0,zanahorias
+10,title,el pescado y la carne,fish and meat,MC,0,null
+10,el pescado y la carne,las aves,poultry/ fowl,picture,2207,aves
+10,el pescado y la carne,el camarón/la gamba,shrimp,picture,0,camaron
+10,el pescado y la carne,la carne,meat,Los músculos de los animales.,787,null
+10,el pescado y la carne,la carne molida,ground meat,picture,0,carne molida
+10,el pescado y la carne,la carne de res,beef/steak,picture,0,carne de res
+10,el pescado y la carne,el cerdo,pork,picture,3200,cerdo
+10,el pescado y la carne,la chuleta,chop,picture,0,chuleta
+10,el pescado y la carne,el cordero,lamb,picture,0,cordero
+10,el pescado y la carne,la costilla,rib,picture,0,costilla
+10,el pescado y la carne,la langosta,lobster,picture,0,langosta
+10,el pescado y la carne,los mariscos,shellfish,picture,0,mariscos
+10,el pescado y la carne,la oveja,sheep,picture,3556,oveja
+10,el pescado y la carne,el pavo,turkey,picture,0,pavo
+10,title,verbos,verbs,MC,0,null
+10,verbos,agregar/añadir,to add,MC,1708,null
+10,verbos,batir,to beat,MC,3313,null
+10,verbos,consumir,to consume,Sinónimo de comer.,1326,null
+10,verbos,freír (i),to fry,Cocinar en aceite.,0,null
+10,verbos,hervir (ie/ i),to boil,Cocinar en agua muy caliente.,4065,null
+10,verbos,probar (ue),to try/ to taste,MC,911,null
+10,verbos,recomendar (ie),to recommend,MC,1581,null
+10,verbos,tapar,to cover,MC,2129,null
+10,title,las descripciones,descriptions,MC,0,null
+10,las descripciones,agrio/a,sour,El opuesto de dulce.,0,null
+10,las descripciones,dulce,sweet,El opuesto de agrio.,1882,null
+10,las descripciones,asado/a,roasted,Cocinado por mucho tiempo.,0,null
+10,las descripciones,frito/a,fried,MC,0,null
+10,las descripciones,lácteo/a,dairy (product),Una cosa que viene de leche.,0,null
+10,title,otros productos,other products,MC,0,null
+10,otros productos,los churros,fried dough,picture,0,churros
+10,otros productos,la crema,cream,picture,4598,crema
+10,otros productos,el dulce,candy/sweets,picture,1882,dulce
+10,otros productos,la galleta,cookie,picture,0,galleta
+10,otros productos,los garbanzos,garbanzo beans,picture,0,garbanzos
+10,otros productos,la harina,flour,picture,3614,harina
+10,otros productos,la leche de coco,coconut milk,picture,4929,leche do coco
+10,otros productos,las legumbres,legumes,picture,0,legumbres
+10,otros productos,las lentejas,lentils,picture,0,lentejas
+10,otros productos,la manteca/la mantequilla,butter,picture,0,mantequilla
+10,otros productos,la margarina,margarine,Similar a mantequilla/ per no tan natural.,0,null
+10,otros productos,el pan dulce,bun/ small cake,picture,1882,pan dulce
+10,otros productos,el pastel,pastry,MC,0,null
+10,otros productos,el queso crema,cream cheese,picture,4598,queso crema
+10,otros productos,el yogur,yogurt,picture,0,yogur
+10,title,en la mesa,on the table,MC,0,null
+10,en la mesa,la bandeja,tray,picture,4240,bandeja
+10,en la mesa,la botella,bottle,picture,2161,botella
+10,en la mesa,la copa,(stemmed) glass,picture,2267,copa
+10,en la mesa,la cuchara,spoon,picture,0,cuchara
+10,en la mesa,la cucharita,teaspoon,picture,0,cucharita
+10,en la mesa,el cuchillo,knife,picture,2945,cuchillo
+10,en la mesa,el mantel,tablecloth,picture,0,mantel
+10,en la mesa,el plato,plate/ dish,picture,1836,plato
+10,en la mesa,el sacacorchos,corkscrew,picture,0,sacacorchps
+10,en la mesa,la servilleta,napkin,picture,0,servilletas
+10,en la mesa,la taza,cup,picture,3218,taza
+10,en la mesa,el tenedor,fork,picture,0,tenedor
+10,en la mesa,el vaso,glass,picture,2107,vaso
+10,title,palabras y expresiones útiles,useful words and expressions,MC,0,null
+10,palabras y expresiones útiles,el/la campesino/a,peasant,picture,1815,campesino
+10,palabras y expresiones útiles,la receta,recipe,MC,3196,null
+10,palabras y expresiones útiles,todavía,still/ yet,MC,211,null
+10,palabras y expresiones útiles,ya,already,MC,36,null

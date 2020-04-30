@@ -1,0 +1,132 @@
+Chapter,Section,Vocab Item,Translation,Prompt Category,Frequency,PictureName
+6,title,los accesorios,accessories,MC,0,null
+6,los accesorios,al anillo,ring,picture,3150,anillo
+6,los accesorios,el arete,earring,picture,0,arete
+6,los accesorios,la billetera,wallet,picture,0,billetera
+6,los accesorios,la bolsa/el bolso,purse,picture,1915,bolsa
+6,los accesorios,la bufanda,scarf,picture,0,bufanda
+6,los accesorios,el cinturón,belt,picture,3922,cinturon
+6,los accesorios,el collar,necklace,picture,4197,collar
+6,los accesorios,las gafas de sol,sunglasses,picture,0,gafas de sol
+6,los accesorios,la gorra,cap,picture,0,gorra
+6,los accesorios,el guante,glove,picture,3392,guante
+6,los accesorios,la joya,piece of jewelry,MC,2698,null
+6,los accesorios,el pañuelo,handkerchief,picture,3900,panuelo
+6,los accesorios,el paraguas,umbrella,picture,0,paraguas
+6,los accesorios,la pulsera,bracelet,picture,0,pulsera
+6,los accesorios,el sombrero,hat,picture,2899,sombrero
+6,title,diseños,designs,MC,0,null
+6,diseños,de color entero,solid,picture,760,color entero
+6,diseños,de cuadros,plaid,picture,779,cuadros
+6,diseños,de lunares,dots,picture,0,lunares
+6,diseños,de rayas,stripes,picture,3249,rayas
+6,title,las compras,shopping,MC,0,null
+6,las compras,el almacén,department store; warehouse,Un lugar muy grande para comprar.,2455,null
+6,las compras,el centro comercial,shopping center,Un lugar con muchos lugares para comprar.,1253,null
+6,las compras,el escaparate,store window,Una ventana en una tienda.,4725,null
+6,las compras,el mercado,market,Un lugar pequeño para comprar.,609,null
+6,las compras,el precio,price,Cuanto cuesta.,708,null
+6,las compras,la rebaja,sale,MC,0,null
+6,las compras,el regalo,present,picture,2067,regalo
+6,las compras,el supermercado,supermarket,Un lugar para comprar comida.,0,null
+6,las compras,la tarjeta de crédito,credit card,picture,2309,tarjeta de credito
+6,las compras,la tienda,store,Un lugar normal para comprar de tamaño normal.,1650,null
+6,title,la ropa,clothes,MC,0,null
+6,la ropa,el abrigo,coat,picture,2996,abrigo
+6,la ropa,la bata,robe,picture,0,bata
+6,la ropa,la blusa,blouse,picture,0,blusa
+6,la ropa,las botas,boots,picture,2735,botas
+6,la ropa,los calcetines,socks,picture,0,calcetines
+6,la ropa,el calzado,footwear,MC,0,null
+6,la ropa,los calzoncillos,boxer shorts,picture,0,calzoncillos
+6,la ropa,la camisa,shirt,picture,2443,camisa
+6,la ropa,la camisa de manga corta,short sleeve shirt,picture,3266,camisa de manga corta
+6,la ropa,la camiseta,T-shirt,picture,4427,camiseta
+6,la ropa,el camisón,nightgown,picture,0,camison
+6,la ropa,la chaqueta,jacket,picture,4372,chaqueta
+6,la ropa,la corbata,tie,picture,3238,corbata
+6,la ropa,la falda,skirt,picture,3143,falda
+6,la ropa,el impermeable,raincoat,picture,0,impermeable
+6,la ropa,las medias,stockings/ socks,picture,0,medias
+6,la ropa,los pantalones,pants,picture,2489,pantalones
+6,la ropa,los pantalones cortos,shorts,picture,2489,pantalones cortos
+6,la ropa,las pantimedias,pantyhose,picture,0,pantimedias
+6,la ropa,el/la piyama,pajamas,picture,0,piyama
+6,la ropa,la ropa interior,underwear,MC,614,null
+6,la ropa,el saco,blazer/ jacket,picture,2798,saco
+6,la ropa,las sandalias,sandals,picture,0,sandalias
+6,la ropa,el sostén,bra,picture,0,sosten
+6,la ropa,la sudadera,sweatshirt; jogging suit,picture,0,sudadera
+6,la ropa,el suéter,sweater,picture,0,sueter
+6,la ropa,el traje,suit,picture,1710,traje
+6,la ropa,el traje de baño,bathing suit,picture,1710,traje de bano
+6,la ropa,los vaqueros/los jeans,jeans,picture,0,vaqueros
+6,la ropa,el vestido,dress,picture,1870,vestido
+6,la ropa,las zapatillas,slippers,picture,0,zapatillas
+6,la ropa,las zapatillas de deporte,tennis shoes,picture,2019,zapatillas de deporte
+6,la ropa,los zapatos,shoes,picture,1932,zapatos
+6,la ropa,los zapatos de tacón,high-heeled shoes,picture,0,zapatos de tacon
+6,title,palabras y expresiones útiles,useful words and expressions,MC,0,null
+6,palabras y expresiones útiles,la artesanía,handicrafts,MC,0,null
+6,palabras y expresiones útiles,la cosa,thing,MC,78,null
+6,palabras y expresiones útiles,el cuero,leather,MC,2848,null
+6,palabras y expresiones útiles,el dinero,money,picture,291,dinero
+6,palabras y expresiones útiles,en efectivo,in cash,MC,1820,null
+6,palabras y expresiones útiles,¿En qué puedo servirle(s)?,How may I help you?,MC,226,null
+6,palabras y expresiones útiles,enseguida,immediately,MC,2707,null
+6,palabras y expresiones útiles,estar de moda,to be fashionable,Muy popular.,1180,null
+6,palabras y expresiones útiles,ir de compras,to go shopping,Sinónimo de comprar.,1374,null
+6,palabras y expresiones útiles,el juguete,toy,picture,2672,juguete
+6,palabras y expresiones útiles,Me gustaría...,I would like...,MC,353,null
+6,palabras y expresiones útiles,la talla,size (clothes),MC,4330,null
+6,palabras y expresiones útiles,el tamaño,size,MC,776,null
+6,title,telas,fabrics,MC,0,null
+6,telas,el algodón,cotton,MC,3613,null
+6,telas,la lana,wool,MC,3060,null
+6,telas,el poliéster,polyester,MC,0,null
+6,telas,la seda,silk,MC,3271,null
+6,title,verbos,verbs,MC,0,null
+6,verbos,caer bien/mal,to be liked (or not),MC,245,null
+6,verbos,calzar,to wear (shoes),Sinónimo de llevar zapatos.,4414,null
+6,verbos,cambiar,to change/ to exchange,MC,246,null
+6,verbos,dar,to give/ to hand,MC,39,null
+6,verbos,encantar,to delight/ to love,Más fuerte que gustar.,2859,null
+6,verbos,encontrar (ue),to find,Después de buscar.,100,null
+6,verbos,entrar (en),to go in/ to enter,El opuesto de salir.,179,null
+6,verbos,fascinar,to fascinate/ to be pleasing to,Más fuerte que interesar.,4854,null
+6,verbos,gastar,to spend,MC,1526,null
+6,verbos,gustar,to be pleasing to/ to like,No tan fuerte como encantar.,353,null
+6,verbos,interesar,to interest,No tan fuerte como fascinar.,448,null
+6,verbos,llevar,to wear/ to take,MC,93,null
+6,verbos,mostrar (ue),to show,MC,392,null
+6,verbos,pagar,to pay (for),Usar dinero para comprar.,342,null
+6,verbos,parecer (zc),to seem,MC,81,null
+6,verbos,prestar,to lend,MC,767,null
+6,verbos,probarse (ue),to try on,MC,911,null
+6,verbos,quedar,to fit; to be left over,MC,89,null
+6,verbos,regalar,to give (a present),Dar un regalo.,1528,null
+6,verbos,regatear,to haggle,MC,0,null
+6,verbos,valer,to be worth,MC,387,null
+6,verbos,vender,to sell,MC,526,null
+6,title,expresiones de tiempo,time expressions,MC,0,null
+6,expresiones de tiempo,anoche,last night,La noche antes de hoy.,3418,null
+6,expresiones de tiempo,anteayer,the day before yesterday,El día antes de ayer.,0,null
+6,expresiones de tiempo,ante(a)noche,the night before last,La noche antes de anoche.,0,null
+6,expresiones de tiempo,el año/mes pasado,last year/month,El año/mes antes de este año/mes.,445,null
+6,expresiones de tiempo,ayer,yesterday,El día antes de hoy.,1112,null
+6,expresiones de tiempo,hace un día/mes/año (que),it has been a day/month/year since,MC,25,null
+6,expresiones de tiempo,una semana atrás,a week ago,MC,483,null
+6,expresiones de tiempo,la semana pasada,last week,La semana antes de esta semana.,445,null
+6,title,las estaciones del año,seasons of the year,MC,0,null
+6,las estaciones del año,el invierno,winter,picture,1340,invierno
+6,las estaciones del año,el otoño,fall,picture,3357,otono
+6,las estaciones del año,la primavera,spring,picture,2325,primavera
+6,las estaciones del año,el verano,summer,picture,893,verano
+6,las descripciones,las descripciones,descriptions,MC,0,null
+6,las descripciones,ancho/a,wide,El opuesto de estrecho.,1720,null
+6,las descripciones,barato/a,inexpensive/ cheap,El opuesto de caro.,1470,null
+6,las descripciones,caro/a,expensive,El opuesto de barato.,1876,null
+6,las descripciones,estrecho/a,narrow/ tight,El opuesto de ancho.,1686,null
+6,las descripciones,magnífico/a,great,MC,1812,null
+6,las descripciones,precioso/a,beautiful,Muy bonito.,1839,null
+6,las descripciones,rebajado/a,marked down,MC,4159,null

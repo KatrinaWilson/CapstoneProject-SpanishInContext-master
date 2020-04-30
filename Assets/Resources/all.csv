@@ -1,0 +1,1355 @@
+Chapter,Section,VocabItem,Translation,PromptCategory,Frequency,PictureName
+0,title,las presentaciones,introductions,MC,0,null
+0,las presentaciones,¿Cómo se llama usted?,What´s your name? (formal),MC,104,null
+0,las presentaciones,¿Cómo te llamas?,What´s your name? (familiar),MC,104,null
+0,las presentaciones,Encantado/a.,Pleased/nice to meet you.,MC,3264,null
+0,las presentaciones,Igualmente.,Likewise.,MC,1431,null
+0,las presentaciones,Me llamo...,My name is...,MC,104,null
+0,las presentaciones,Mucho gusto.,Pleased/nice to meet you.,MC,593,null
+0,title,los saludos,greetings,MC,0,null
+0,los saludos,bastante,rather,MC,270,null
+0,los saludos,bien,well,MC,73,null
+0,los saludos,buenas tardes/buenas noches,good afternoon/good evening/ good night,MC,196,null
+0,los saludos,buenos días,good morning,MC,71,null
+0,los saludos,¿Cómo está?,How are you? (formal),MC,126,null
+0,los saludos,¿Cómo estás?,How are you? (familiar),MC,126,null
+0,los saludos,hola,hi/ hello,MC,4752,null
+0,los saludos,mal,bad,MC,301,null
+0,los saludos,muy,very,MC,42,null
+0,los saludos,regular,fair (so so),MC,1956,null
+0,los saludos,¿Qué tal?,What´s up? What´s new? (informal),MC,120,null
+0,title,las despedidas,leavetaking,MC,0,null
+0,las despedidas,adiós,good-bye,MC,2557,null
+0,las despedidas,chao/chau,good-bye,MC,0,null
+0,las despedidas,hasta luego,see you later,MC,132,null
+0,las despedidas,hasta mañana,see you tomorrow,MC,401,null
+0,las despedidas,hasta pronto,see you soon,MC,396,null
+0,title,expreciones de cortesía,courtesy expressions,MC,0,null
+0,expreciones de cortesía,con permiso,pardon me/ excuse me,MC,1753,null
+0,expreciones de cortesía,de nada,you´re welcome,MC,95,null
+0,expreciones de cortesía,gracias,thanks,MC,272,null
+0,expreciones de cortesía,lo siento,I´m sorry (to hear that),MC,131,null
+0,expreciones de cortesía,perdón,pardon me/ excuse me,MC,2240,null
+0,expreciones de cortesía,por favor,please,MC,468,null
+0,title,en el salón de clase,in the classroom,MC,0,null
+0,en el salón de clase,el bolígrafo,ballpoint pen,picture,0,el bolígrafo
+0,en el salón de clase,el borrador,eraser,picture,0,el borrador
+0,en el salón de clase,la calculadora,calculator,picture,0,calculadora
+0,en el salón de clase,el cesto,wastebasket,picture,0,cesto
+0,en el salón de clase,la computadora,computer,picture,4253,computadora
+0,en el salón de clase,la computadora portátil,laptop,picture,0,laptop
+0,en el salón de clase,el cuaderno,notebook,picture,3220,cuaderno
+0,en el salón de clase,el toca DVD,DVD player,picture,325,toca DVD
+0,en el salón de clase,el escritorio,desk,picture,3539,escritorio
+0,en el salón de clase,el lápiz,pencil,picture,3296,lapiz
+0,en el salón de clase,el libro,book,picture,253,libro
+0,en el salón de clase,el marcador/el rotulador,marker,picture,0,marcador
+0,en el salón de clase,la mesa,table,picture,461,mesa
+0,en el salón de clase,la mochila,backpack,picture,0,mochila
+0,en el salón de clase,la pantalla,screen,picture,2330,pantalla
+0,en el salón de clase,la pizarra,chalkboard,picture,0,pizarra
+0,en el salón de clase,la puerta,door,picture,354,puerta
+0,en el salón de clase,el reloj,clock,picture,1685,reloj
+0,en el salón de clase,la silla,chair,picture,1307,silla
+0,en el salón de clase,la tableta,tablet,picture,0,tableta
+0,en el salón de clase,el televisor,television set,picture,3250,televisor
+0,en el salón de clase,la ventana,window,picture,1265,ventana
+0,title,las personas,people,MC,0,null
+0,las personas,el amigo/la amiga,friend,MC,262,null
+0,las personas,el chico/la chica,boy/girl,MC,1079,null
+0,las personas,el doctor/la doctora,doctor,MC,778,null
+0,las personas,él,he,MC,41,null
+0,las personas,ella,she,MC,69,null
+0,las personas,el/la estudiante,student,MC,1019,null
+0,las personas,el profesor/la profesora,professor/ teacher,MC,621,null
+0,las personas,el señor (Sr.),Mr.,MC,240,null
+0,las personas,la señora (Sra.),Ms./ Mrs.,MC,976,null
+0,las personas,la señorita (Srta.),Ms/ Miss,MC,2622,null
+0,las personas,tú,you (familiar),MC,554,null
+0,las personas,usted,you (formal),MC,269,null
+0,las personas,yo,I,MC,52,null
+0,title,la posición,position,MC,0,null
+0,la posición,al lado (de),next to,MC,165,null
+0,la posición,debajo (de),under,MC,820,null
+0,la posición,detrás (de),behind,MC,701,null
+0,la posición,enfrente (de),in front of,MC,2541,null
+0,la posición,entre,between/ among,MC,58,null
+0,la posición,sobre,on/ above,MC,48,null
+0,title,el tiempo,the weather,MC,0,null
+0,el tiempo,Hace buen/mal tiempo.,The weather is good/bad.,MC,68,null
+0,el tiempo,Hace sol.,It´s sunny.,picture,686,hace sol
+0,el tiempo,Llueve./Está lloviendo.,It´s raining.,picture,2053,lluve
+0,el tiempo,¿Qué tiempo hace?,What´s the weather like?,MC,68,null
+0,title,verbos,verbs,MC,0,null
+0,verbos,eres,you are (familiar),MC,8,null
+0,verbos,es,you are (formal)/ he/she is,MC,8,null
+0,verbos,está,he/she is/ you are (formal),MC,17,null
+0,verbos,estás,you are (familiar),MC,17,null
+0,verbos,hay,there is/ there are,MC,11,null
+0,verbos,soy,I am,MC,8,null
+0,title,palabras y expreciones útiles,useful words and expressions,MC,0,null
+0,palabras y expreciones útiles,a,at/ to,MC,5,null
+0,palabras y expreciones útiles,el año,year,MC,55,null
+0,palabras y expreciones útiles,¿Cómo es?,What is he/she/it like?,MC,126,null
+0,palabras y expreciones útiles,el día,day,MC,71,null
+0,palabras y expreciones útiles,¿Dónde está...?,Where is...?,MC,421,null
+0,palabras y expreciones útiles,el/la,the,MC,1,null
+0,palabras y expreciones útiles,en,in,MC,6,null
+0,palabras y expreciones útiles,ese/a,that (adjective),MC,32,null
+0,palabras y expreciones útiles,el/la,the,MC,1,null
+0,palabras y expreciones útiles,hoy,today,MC,164,null
+0,palabras y expreciones útiles,la mañana,morning,MC,401,null
+0,palabras y expreciones útiles,mañana,tomorrow,MC,401,null
+0,palabras y expreciones útiles,más o menos,more or less,MC,24,null
+0,palabras y expreciones útiles,el mes,month,MC,210,null
+0,palabras y expreciones útiles,mi(s),my,MC,49,null
+0,palabras y expreciones útiles,¿Quién es...?,Who is...?,MC,292,null
+0,palabras y expreciones útiles,la semana,week,MC,304,null
+0,palabras y expreciones útiles,sí,yes,MC,70,null
+0,palabras y expreciones útiles,tu(s),your (familiar),MC,349,null
+0,palabras y expreciones útiles,un/una,a/ an,MC,7,null
+0,palabras y expreciones útiles,y,and,MC,4,null
+0,title,los meses del año,months of the year,MC,0,null
+0,los meses del año,enero,January,diciembre ... febrero,1449,null
+0,los meses del año,febrero,February,enero ... marzo,1722,null
+0,los meses del año,marzo,March,febrero ... abril,2002,null
+0,los meses del año,abril,April,marzo ... mayo,1922,null
+0,los meses del año,mayo,May,abril ... junio,1422,null
+0,los meses del año,junio,June,mayo ... julio,2349,null
+0,los meses del año,julio,July,junio ... agosto,1559,null
+0,los meses del año,agosto,August,julio ... septiembre,1244,null
+0,los meses del año,septiembre,September,agosto ... octubre,2574,null
+0,los meses del año,octubre,October,septiembre ... noviembre,1688,null
+0,los meses del año,noviembre,November,octubre ... diciembre,2148,null
+0,los meses del año,diciembre,December,noviembre ... enero,1341,null
+0,title,los días de la semana,days of the week,MC,0,null
+0,los días de la semana,lunes,Monday,domingo ... martes,2187,null
+0,los días de la semana,martes,Tuesday,lunes ... miércoles,3490,null
+0,los días de la semana,miércoles,Wednesday,martes ... jueves,3431,null
+0,los días de la semana,jueves,Thursday,miércoles ... viernes,2606,null
+0,los días de la semana,viernes,Friday,jueves ... sábado,2483,null
+0,los días de la semana,sábado,Saturday,viernes ... domingo,1816,null
+0,los días de la semana,domingo,Sunday,sábado ... lunes,1121,null
+0,title,expresiones útiles en la clase,useful expresions in class,MC,0,null
+0,expresiones útiles en la clase,¿Cómo se dice... en español?,How do you say... in Spanish?,MC,28,null
+0,expresiones útiles en la clase,¿Comprenden?/¿Comprendes?,Do you understand?,MC,306,null
+0,expresiones útiles en la clase,Contesten/ por favor./Contesta/ por favor.,Please answer.,MC,764,null
+0,expresiones útiles en la clase,¿En qué página?,On what page?,MC,1135,null
+0,expresiones útiles en la clase,Dile a tu compañero/a...,Tell your partner...,MC,28,null
+0,expresiones útiles en la clase,Escribe.,Write.,MC,187,null
+0,expresiones útiles en la clase,Hable (sobre...),Talk (about...),MC,92,null
+0,expresiones útiles en la clase,Lee.,Read.,MC,244,null
+0,expresiones útiles en la clase,Levanta la mano.,Raise your hand.,MC,372,null
+0,expresiones útiles en la clase,Más alto/ por favor.,Louder/ please.,MC,185,null
+0,expresiones útiles en la clase,Más despacio/lento/ por favor.,More slowly/ please.,MC,3398,null
+0,expresiones útiles en la clase,No comprendo.,I don´t understand.,MC,306,null
+0,expresiones útiles en la clase,No sé.,I don´t know.,MC,46,null
+0,expresiones útiles en la clase,Otra vez.,Again.,MC,44,null
+0,expresiones útiles en la clase,Presente.,Here (present).,MC,802,null
+0,expresiones útiles en la clase,Repite./Repitan.,Repeat.,MC,382,null
+0,expresiones útiles en la clase,Túrnense.,Take turns.,MC,0,null
+0,expresiones útiles en la clase,La tarea/ por favor.,Homework please.,MC,585,null
+0,expresiones útiles en la clase,¿Tienen preguntas?/¿Tienes preguntas?,Do you have any questions?,MC,481,null
+0,expresiones útiles en la clase,Vayan a la pizarra./Ve a la pizarra.,Go to the board.,MC,30,null
+0,title,cognados,cognates,MC,0,null
+0,cognados,arrogante,arrogant,picture,0,arrogante
+0,cognados,eficiente,efficient,picture,3571,eficiente
+0,cognados,elegante,elegant,picture,1918,elegante
+0,cognados,idealista,idealistic,picture,0,idealista
+0,cognados,importante,important,picture,207,importante
+0,cognados,independiente,independent,picture,1291,independiente
+0,cognados,inteligente,intelligent,picture,1447,inteligente
+0,cognados,interesante,interesting,picture,762,interesante
+0,cognados,optimista,optimistic,picture,3030,optimista
+0,cognados,paciente,patient,picture,1511,paciente
+0,cognados,perfectionista,perfectionistic,picture,0,perfecctionista
+0,cognados,pesimista,pessimistic,picture,0,pesimista
+0,cognados,popular,popular,picture,709,popular
+0,cognados,responsable,responsable,picture,955,responsable
+0,cognados,sentimental,sentimental,picture,2646,sentimental
+0,cognados,tradicional,traditional,picture,1309,tradicional
+0,cognados,activo/a,active,picture,1328,activo
+0,cognados,ambicioso/a,ambitious,picture,3310,ambicioso
+0,cognados,atlético/a,athletic,picture,0,atletico
+0,cognados,atractivo/a,atractive,picture,2131,atractivo
+0,cognados,cómico/a,comical,picture,3485,comico
+0,cognados,creativo/a,creative,picture,3551,creativo
+0,cognados,dinámico/a,dynamic,picture,4064,dinamico
+0,cognados,extrovertido/a,extroverted,picture,0,extrovertido
+0,cognados,generoso/a,generous,picture,2398,generoso
+0,cognados,impulsivo/a,impulsive,picture,0,impulsivo
+0,cognados,introvertido/a,introverted,picture,0,introvertido
+0,cognados,moderno/a,modern,picture,671,moderno
+0,cognados,nervioso,nervous,picture,1410,nervioso
+0,cognados,nerviosa,nervous,picture,1410,nerviosa
+0,cognados,pasivo/a,passive,picture,4317,pasivo
+0,cognados,religioso/a,religious,picture,886,religioso
+0,cognados,romántico/a,romantic,picture,2338,romantico
+0,cognados,serio/a,serious,picture,545,serio
+0,cognados,sincero/a,sincere,picture,2915,sincero
+0,cognados,tímido/a,timid,picture,2795,timido
+0,cognados,tranquilo/a,calm,picture,1144,tranquila
+0,title,los números,numbers,MC,0,null
+0,los números,cero,zero,0,2284,null
+0,los números,uno,one,1,72,null
+0,los números,dos,two,2,56,null
+0,los números,tres,three,3,119,null
+0,los números,cuatro,four,4,188,null
+0,los números,cinco,five,5,231,null
+0,los números,seis,six,6,375,null
+0,los números,siete,seven,7,470,null
+0,los números,ocho,eight,8,492,null
+0,los números,nueve,nine,9,786,null
+0,los números,diez,ten,10,346,null
+0,los números,once,eleven,11,1455,null
+0,los números,doce,twelve,12,823,null
+0,los números,trece,thirteen,13,2115,null
+0,los números,catorce,fourteen,14,2278,null
+0,los números,quince,fifteen,15,1033,null
+0,los números,dieciséis,sixteen,16,2793,null
+0,los números,diecisiete,seventeen,17,3446,null
+0,los números,dieciocho,eighteen,18,2694,null
+0,los números,diecinueve,nineteen,19,0,null
+0,los números,veinte,twenty,20,582,null
+0,los números,veintiuno,twenty-one,21,0,null
+0,los números,veintidós,twenty-two,22,4873,null
+0,los números,vientitrés,twenty-three,23,0,null
+0,los números,treinta,thirty,30,722,null
+0,los números,treinta y uno,thirty-one,31,722,null
+0,los números,cuarenta,forty,40,943,null
+0,los números,cincuenta,fifty,50,782,null
+0,los números,sesenta,sixty,60,1306,null
+0,los números,setenta,seventy,70,1773,null
+0,los números,ochenta,eighty,80,2120,null
+0,los números,noventa,ninety,90,3417,null
+0,title,decir la hora,telling time,MC,0,null
+0,decir la hora,¿Qué hora es?,What time is it?,MC,143,null
+0,decir la hora,Es la.../Son las...,It is...,MC,8,null
+0,decir la hora,y cuarto/y quince,and a quarter/fifteen,MC,655,null
+0,decir la hora,y media/y treinta,and a half/thirty,MC,2342,null
+0,decir la hora,menos,to/till,MC,98,null
+0,decir la hora,y + minutos,and + minutes,MC,4,null
+0,decir la hora,en punto,on the dot/sharp,MC,147,null
+0,decir la hora,de la mañana,(from midnight to noon),MC,401,null
+0,decir la hora,de la tarde,(from noon to nightfall),MC,242,null
+0,decir la hora,de la noche,(from nightfall to midnight),MC,196,null
+1,title,las materias o asignaturas,subjects,MC,0,null
+1,las materias o asignaturas,la antropología,anthropology,Estudiar personas.,0,null
+1,las materias o asignaturas,la arquitectura,architecture,Estudiar casas.,2516,null
+1,las materias o asignaturas,las ciencias políticas,political science,Estudiar derechos.,284,null
+1,las materias o asignaturas,la economía,economics,Estudiar el dinero.,1504,null
+1,las materias o asignaturas,el español,Spanish,MC,285,null
+1,las materias o asignaturas,la estadística,statistics,Estudiar matemáticas.,3339,null
+1,las materias o asignaturas,la geografía,geography,Estudiar lugares.,2670,null
+1,las materias o asignaturas,la historia,history,MC,192,null
+1,las materias o asignaturas,la informática/la computación,computer science,Estudiar computadoras.,0,null
+1,las materias o asignaturas,la literatura,literature,Estudiar libros.,1090,null
+1,las materias o asignaturas,la psicología,psychology,MC,4437,null
+1,las materias o asignaturas,la sociología,sociology,MC,0,null
+1,title,los lugares,places,MC,0,null
+1,los lugares,la biblioteca,library,Lugar para leer.,1825,null
+1,los lugares,el café,café/ coffee shop,MC,1250,null
+1,los lugares,la cafetería,cafeteria,Lugar para comer.,0,null
+1,los lugares,la casa,house/ home,MC,116,null
+1,los lugares,la discoteca,dance club,Lugar para bailar.,0,null
+1,los lugares,el gimnasio,gymnasium,MC,0,null
+1,los lugares,el laboratorio,laboratory,Lugar para las ciencias.,2264,null
+1,los lugares,la librería,bookstore,Lugar para comprar libros.,4577,null
+1,los lugares,la oficina,office,Lugar para trabajar.,1113,null
+1,los lugares,la playa,beach,MC,1713,null
+1,los lugares,la plaza,plaza/ square,MC,1020,null
+1,los lugares,la universidad,university,Lugar para aprender.,1473,null
+1,title,las facultades,schools/ departments,MC,0,null
+1,las facultades,de Ciencias,of Sciences,MC,775,null
+1,las facultades,de Derecho,of Law,MC,427,null
+1,las facultades,de Humanidades,of Humanities,MC,1566,null
+1,las facultades,de Informática,of Computer Science,MC,0,null
+1,las facultades,de Medicina,of Medicine,MC,1725,null
+1,title,las personas,people,MC,0,null
+1,las personas,el alumno/la alumna,student,MC,969,null
+1,las personas,el compañero/la compañera,partner/ classmate,MC,693,null
+1,las personas,el dependiente/la dependienta,salesperson,MC,0,null
+1,las personas,ellos/ellas,they,MC,41,null
+1,las personas,nosotros/nosotras,we,MC,191,null
+1,las personas,ustedes,you (plural),MC,269,null
+1,las personas,vosotros/as,you (plural),MC,4132,null
+1,title,palabras y expreciones útiles,useful words and expressions,MC,0,null
+1,palabras y expreciones útiles,ahora,now,MC,85,null
+1,palabras y expreciones útiles,algo,something,MC,101,null
+1,palabras y expreciones útiles,¡Buena suerte!,Good luck!,MC,725,null
+1,palabras y expreciones útiles,¿Cómo te va?,How is it going?,MC,126,null
+1,palabras y expreciones útiles,con,with,MC,13,null
+1,palabras y expreciones útiles,¿Cuántas clases tienes?,How many classes do you have?,MC,288,null
+1,palabras y expreciones útiles,¿Cuánto cuesta?,How much is it?,picture,626,cuanto cuesta
+1,palabras y expreciones útiles,el diccionario,dictionary,picture,4223,diccionario
+1,palabras y expreciones útiles,este/a,this,MC,29,null
+1,palabras y expreciones útiles,el examen,test,MC,1286,null
+1,palabras y expreciones útiles,el euro,euro,picture,0,euro
+1,palabras y expreciones útiles,el fin de semana,weekend,MC,156,null
+1,palabras y expreciones útiles,el mapa,map,picture,2185,mapa
+1,palabras y expreciones útiles,para,for/ to,MC,15,null
+1,palabras y expreciones útiles,pero,but,MC,23,null
+1,palabras y expreciones útiles,porque,because,MC,38,null
+1,palabras y expreciones útiles,¡Qué lástima!,What a pity!,MC,3294,null
+1,palabras y expreciones útiles,solo,only,MC,102,null
+1,palabras y expreciones útiles,también,also,MC,53,null
+1,palabras y expreciones útiles,la tarea,homework,MC,585,null
+1,palabras y expreciones útiles,tengo/tienes,I have/you have,MC,18,null
+1,palabras y expreciones útiles,¿verdad?,right?,MC,209,null
+1,title,las descripciones,descriptions,MC,0,null
+1,las descripciones,aburrido/a,boring,MC,2813,null
+1,las descripciones,antiguo/a,old,MC,348,null
+1,las descripciones,bueno/a,good,picture,115,bueno
+1,las descripciones,difícil,difficult,MC,314,null
+1,las descripciones,estudioso/a,studious,MC,3940,null
+1,las descripciones,excelente,excellent,MC,1273,null
+1,las descripciones,fácil,easy,MC,514,null
+1,las descripciones,favorito/a,favorite,MC,2699,null
+1,las descripciones,grande,big,picture,62,grande
+1,las descripciones,interesante,interesting,MC,762,null
+1,las descripciones,malo/a,bad,picture,275,malo
+1,las descripciones,norteamericano/a,North American,MC,1246,null
+1,las descripciones,pequeño/a,small,picture,184,pequeno
+1,title,palabras interrogativas,interrogative words,MC,0,null
+1,palabras interrogativas,¿cómo?,how?/what?,MC,126,null
+1,palabras interrogativas,¿cuándo?,when?,MC,1199,null
+1,palabras interrogativas,¿cuál(es)?,which?,MC,395,null
+1,palabras interrogativas,¿cuánto/a?,how much?,MC,723,null
+1,palabras interrogativas,¿cuántos/as?,how many?,MC,723,null
+1,palabras interrogativas,¿dónde?,where?,MC,421,null
+1,palabras interrogativas,¿para qué?,why?/what for?,MC,15,null
+1,palabras interrogativas,¿por qué?,why?,MC,12,null
+1,palabras interrogativas,¿qué?,what?,MC,47,null
+1,palabras interrogativas,¿quién(es)?,who?,MC,292,null
+1,title,expreciones de frecuencia,expressions of frequency,MC,0,null
+1,expreciones de frecuencia,a veces,sometimes,MC,44,null
+1,expreciones de frecuencia,muchas veces,many times,MC,44,null
+1,expreciones de frecuencia,nunca,never,El opuesto de siempre.,151,null
+1,expreciones de frecuencia,siempre,always,El opuesto de nunca.,90,null
+1,expreciones de frecuencia,todas las semanas,every week,MC,304,null
+1,expreciones de frecuencia,todos los días/meses,every day/month,MC,71,null
+1,title,verbos,verbs,MC,0,null
+1,verbos,aprender,to learn,MC,422,null
+1,verbos,asistir,to attend,MC,822,null
+1,verbos,bailar,to dance,picture,2071,bailar
+1,verbos,beber,to drink,picture,1476,beber
+1,verbos,buscar,to look for,picture,173,buscar
+1,verbos,caminar,to walk,picture,919,caminar
+1,verbos,comer,to eat,picture,389,comer
+1,verbos,comprar,to buy,picture,437,comprar
+1,verbos,comprender,to understand,MC,306,null
+1,verbos,conversar,to talk/ to converse,picture,2507,conversar
+1,verbos,correr,to run,picture,332,correr
+1,verbos,deber,should,MC,75,null
+1,verbos,escribir,to write,picture,187,escribir
+1,verbos,escuchar,to listen (to),picture,360,escuchar
+1,verbos,estar,to be,MC,17,null
+1,verbos,estudiar,to study,MC,328,null
+1,verbos,hablar,to speak,picture,92,hablar
+1,verbos,leer,to read,picture,244,leer
+1,verbos,llegar,to arrive,MC,66,null
+1,verbos,mirar,to look (at),picture,142,mirar
+1,verbos,montar (en bicicleta),to ride (a bicycle),picture,998,montar
+1,verbos,necesitar,to need,MC,229,null
+1,verbos,participar,to participate,MC,750,null
+1,verbos,practicar,to practice,MC,1303,null
+1,verbos,responder,to respond,picture,456,responder
+1,verbos,sacar buenas/malas notas,to get good/bad grades,picture,853,sacar buenas o malas notas
+1,verbos,tomar,to take/ to drink,Sinónimo de beber,122,null
+1,verbos,tomar apuntes/notas,to take notes,MC,3599,null
+1,verbos,trabajar,to work,MC,183,null
+1,verbos,ver,to see,Sinónimo de mirar.,37,null
+1,verbos,vivir,to live,MC,128,null
+2,title,las descripciones,descriptions,MC,0,null
+2,las descripciones,agradable,nice,El opuesto de antipático.,1724,null
+2,las descripciones,alegre,happy/ glad,El opuesto de triste.,2304,null
+2,las descripciones,alto/a,tall,El opuesto de bajo.,185,null
+2,las descripciones,antipático/a,unpleasant,El opuesto de agradable.,0,null
+2,las descripciones,bajo/a,short (in stature),El opuesto de alto.,214,null
+2,las descripciones,bilingüe,bilingual,Habla español e inglés.,0,null
+2,las descripciones,bonito/a,pretty,El opuesto de feo.,1707,null
+2,las descripciones,callado/a,quiet,No habla mucho.,3095,null
+2,las descripciones,cansado/a,tired,MC,2147,null
+2,las descripciones,casado/a,married,El opuesto de soltero.,1830,null
+2,las descripciones,contento/a,happy/ glad,MC,1642,null
+2,las descripciones,conversador/a,talkative,Habla mucho.,0,null
+2,las descripciones,corto/a,short (in length),El opuesto de largo.,537,null
+2,las descripciones,de estatura mediana,average/ medium height,Ni bajo ni alto.,4098,null
+2,las descripciones,débil,weak,El opuesto de fuerte.,1284,null
+2,las descripciones,delgado/a,thin,El opuesto de gordo.,3039,null
+2,las descripciones,divertido,funny/ amusing,El opuesto de aburrido.,2553,null
+2,las descripciones,enojado/a,angry,picture,0,enojado
+2,las descripciones,feo/a,ugly,El opuesto de bonito.,2381,null
+2,las descripciones,fuerte,strong,El opuesto de débil.,1010,null
+2,las descripciones,gordo/a,fat,El opuesto de delgado.,2217,null
+2,las descripciones,guapo/a,good-looking/ handsome,MC,4140,null
+2,las descripciones,hispano/a,Hispanic,Persona que habla español.,4983,null
+2,las descripciones,joven,young,El opuesto de mayor.,442,null
+2,las descripciones,largo/a,long,El opuesto de corto.,175,null
+2,las descripciones,listo/a,smart; ready,El opuesto de tonto.,1456,null
+2,las descripciones,mayor,old,El opuesto de joven.,138,null
+2,las descripciones,moreno/a,brunette,picture,2303,moreno
+2,las descripciones,nervioso/a,nervous,picture,1410,nerviosa
+2,las descripciones,nuevo/a,new,MC,99,null
+2,las descripciones,oscuro/a,dark,MC,888,null
+2,las descripciones,pelirrojo/a,redhead,picture,0,pelirrojo
+2,las descripciones,perezoso/a,lazy,No trabaja mucho.,0,null
+2,las descripciones,pobre,poor,El opuesto de rico.,373,null
+2,las descripciones,rico/a,rich. wealthy,El opuesto de pobre.,627,null
+2,las descripciones,rubio/a,blond,picture,3269,rubio
+2,las descripciones,simpático/a,nice/ charming,MC,2590,null
+2,las descripciones,soltero/a,single,El opuesto de casado.,3175,null
+2,las descripciones,tonto/a,silly/ foolish,El opuesto de listo.,2191,null
+2,las descripciones,trabajador/a,hardworking,Trabaja mucho.,1714,null
+2,las descripciones,triste,sad,El opuesto de contento.,1314,null
+2,las descripciones,viejo/a,old,MC,281,null
+2,title,verbos,verbs,MC,0,null
+2,verbos,desear,to wish/ to want,MC,515,null
+2,verbos,ser,to be,MC,8,null
+2,verbos,usar,to use,MC,380,null
+2,title,los colores,colors,MC,0,null
+2,los colores,amarillo/a,yellow,picture,1586,amarillo
+2,los colores,anaranjado/a,orange,picture,0,anaranjado
+2,los colores,azul,blue,picture,904,azul
+2,los colores,blanco/a,white,picture,250,blanco
+2,los colores,castaño/a,brown,picture,0,castano
+2,los colores,gris,gray,picture,2290,gris
+2,los colores,marrón,brown,Sinónimo de castaño.,4951,null
+2,los colores,morado/a,purple,picture,0,morado
+2,los colores,negro/a,black,picture,317,negro
+2,los colores,rojo/a,red,picture,533,rojo
+2,los colores,rosado/a/ rosa,pink,picture,4461,rosado
+2,los colores,verde,green,picture,878,verde
+2,title,las nacionalidades,nationalities,MC,0,null
+2,las nacionalidades,alemán/alemana,German,MC,963,null
+2,las nacionalidades,argentino/a,Argentinian,MC,1626,null
+2,las nacionalidades,boliviano/a,Bolivian,MC,0,null
+2,las nacionalidades,canadiense,Canadian,MC,0,null
+2,las nacionalidades,chileno/a,Chilean,MC,3164,null
+2,las nacionalidades,chino/a,Chinese,MC,1444,null
+2,las nacionalidades,colombiano/a,Colombian,MC,4695,null
+2,las nacionalidades,costarricense,Costa Rican,MC,0,null
+2,las nacionalidades,cubano/a,Cuban,MC,3905,null
+2,las nacionalidades,dominicano/a,Dominican,MC,0,null
+2,las nacionalidades,ecuatoriano/a,Ecuadorian,MC,0,null
+2,las nacionalidades,español/a,Spanish,MC,285,null
+2,las nacionalidades,estadounidense,U.S. citizen,MC,0,null
+2,las nacionalidades,francés/francesa,French,MC,646,null
+2,las nacionalidades,guatemalteco/a,Guatemalan,MC,0,null
+2,las nacionalidades,hondureño/a,Honduran,MC,0,null
+2,las nacionalidades,japonés/japonesa,Japanese,MC,2169,null
+2,las nacionalidades,marroquí,Moroccan,MC,0,null
+2,las nacionalidades,mexicano/a,Mexican,MC,3892,null
+2,las nacionalidades,nicaragüense,Nicaraguan,MC,0,null
+2,las nacionalidades,nigeriano/a,Nigerian,MC,0,null
+2,las nacionalidades,panameño/a,Panamanian,MC,0,null
+2,las nacionalidades,paraguayo/a,Paraguayan,MC,0,null
+2,las nacionalidades,peruano/a,Peruvian,MC,4359,null
+2,las nacionalidades,polaco/a,Polish,MC,0,null
+2,las nacionalidades,portugués/portuguesa,Portuguese,MC,3913,null
+2,las nacionalidades,puertorriqueño/a,Puerto Rican,MC,0,null
+2,las nacionalidades,salvadoreño/a,Salvadoran,MC,0,null
+2,las nacionalidades,uruguayo/a,Uruguayan,MC,0,null
+2,las nacionalidades,venezolano/a,Venezuelan,MC,0,null
+2,title,palabras y expreciones útiles,useful words and expressions,MC,0,null
+2,palabras y expreciones útiles,el auto/ el coche/ el carro,car,picture,2259,auto
+2,palabras y expreciones útiles,de,of/ from,MC,2,null
+2,palabras y expreciones útiles,¿de quién?,whose?,MC,292,null
+2,palabras y expreciones útiles,del,of the (contraction of de + el),MC,2,null
+2,palabras y expreciones útiles,el esposo/la esposa,husband/wife,MC,2676,null
+2,palabras y expreciones útiles,la flor,flower,picture,950,flor
+2,palabras y expreciones útiles,le gusta(n),you (formal) like,MC,353,null
+2,palabras y expreciones útiles,los lentes de contacto,contact lenses,picture,4193,lentes de contacto
+2,palabras y expreciones útiles,me gusta(n),I like,MC,353,null
+2,palabras y expreciones útiles,mucho (adv.),much/ a lot,MC,45,null
+2,palabras y expreciones útiles,mucho/a (adj.),many,MC,45,null
+2,palabras y expreciones útiles,el ojo,eye,picture,247,ojo
+2,palabras y expreciones útiles,el pelo,hair,picture,1056,pelo
+2,palabras y expreciones útiles,te gusta(n),you (familiar) like,MC,353,null
+2,palabras y expreciones útiles,Tengo... años.,I am... years old.,MC,55,null
+2,palabras y expreciones útiles,tiene,he/she has; you (formal) have,MC,18,null
+2,palabras y expreciones útiles,todos/as,everybody,MC,22,null
+2,palabras y expreciones útiles,mi(s),my,MC,49,null
+2,palabras y expreciones útiles,tu(s),your (familiar),MC,349,null
+2,palabras y expreciones útiles,su(s),your (formal)/ his/ her/ its/ their,MC,14,null
+2,palabras y expreciones útiles,nuestro(s)/ nuestra(s),our,MC,82,null
+3,title,las diversiones y las celebraciones,entertainment and celebrations,MC,0,null
+3,las diversiones y las celebraciones,la canción,song,Las palabras que una persona canta.,1459,null
+3,las diversiones y las celebraciones,el cumpleaños,birthday,MC,3785,null
+3,las diversiones y las celebraciones,la fiesta,party,Cuando las personas celebran.,988,null
+3,las diversiones y las celebraciones,la guitarra,guitar,picture,2885,guitarra
+3,las diversiones y las celebraciones,la música,music,picture,550,musica
+3,las diversiones y las celebraciones,la película,film,MC,826,null
+3,las diversiones y las celebraciones,la reunión,meeting/ gathering,MC,746,null
+3,las diversiones y las celebraciones,el tiempo libre,free time,Cuando no tienes trabajo.,413,null
+3,las diversiones y las celebraciones,las vacaciones,vacation,MC,1623,null
+3,title,las personas,people,MC,0,null
+3,las personas,el/la camarero/a,server/ waiter/waitress (restaurant),MC,0,null
+3,las personas,el hombre,man,picture,80,hombre
+3,las personas,el/la joven,young man/woman,MC,442,null
+3,las personas,la mujer,woman,picture,127,mujer
+3,title,la comunicación,communication,MC,0,null
+3,la comunicación,el periódico,newspaper,picture,765,periodico
+3,la comunicación,la revista,magazine,picture,804,revista
+3,la comunicación,el teléfono,telephone,picture,999,telefono
+3,title,los lugares,places,MC,0,null
+3,los lugares,el cine,movies,picture,1159,cine
+3,los lugares,la ciudad,city,picture,197,ciudad
+3,los lugares,el mar,sea,picture,645,mar
+3,los lugares,el país,country/ nation,picture,133,pais
+3,title,las descripciones,descriptions,MC,0,null
+3,las descripciones,caliente,hot,El opuesto de frío.,1793,null
+3,las descripciones,fabuloso/a,favulous/ great,MC,3596,null
+3,las descripciones,frío/a,cold,El opuesto de caliente.,907,null
+3,las descripciones,frito/a,fried,MC,0,null
+3,title,verbos,verbs,MC,0,null
+3,verbos,alquilar,to rent,MC,3761,null
+3,verbos,bajar,to download,MC,569,null
+3,verbos,cantar,to sing,MC,1124,null
+3,verbos,celebrar,to celebrate,MC,1059,null
+3,verbos,cenar,to have dinner,MC,3261,null
+3,verbos,descansar,to rest,MC,1257,null
+3,verbos,hacer,to do,MC,25,null
+3,verbos,hacer la cama,to make the bed,MC,1185,null
+3,verbos,ir,to go,MC,30,null
+3,verbos,nadar,to swim,MC,3050,null
+3,verbos,oír,to hear,MC,263,null
+3,verbos,poner,to put,MC,77,null
+3,verbos,poner la mesa,to set the table,Preparar para comer.,461,null
+3,verbos,poner una película,to show a movie,MC,826,null
+3,verbos,salir,to leave,MC,111,null
+3,verbos,tocar (un instrumento),to play (an instrument),MC,813,null
+3,verbos,tomar el sol,to sunbathe,MC,686,null
+3,verbos,traer,to bring,MC,289,null
+3,title,expreciones con por,expressions with por,MC,0,null
+3,expreciones con por,por ciento,percent,MC,300,null
+3,expreciones con por,por ejemplo,for example,MC,162,null
+3,expreciones con por,por eso,for this reason,MC,63,null
+3,expreciones con por,por fin,at last,MC,156,null
+3,expreciones con por,por lo menos,at least,MC,98,null
+3,expreciones con por,por supuesto,of course,MC,511,null
+3,title,en un café o restaurante,in a coffee shop or restaurant,MC,0,null
+3,en un café o restaurante,la aceituna,olive,picture,0,aceituna
+3,en un café o restaurante,el agua,water,picture,194,agua
+3,en un café o restaurante,el almuerzo,lunch,La comida en el medio del día.,3104,null
+3,en un café o restaurante,al arroz,rice,picture,3130,arroz
+3,en un café o restaurante,la bebida,drink,Una cosa para beber.,2828,null
+3,en un café o restaurante,el bistec,steak,picture,0,bistec
+3,en un café o restaurante,el café,coffee,picture,1250,cafe
+3,en un café o restaurante,la cena,dinner/ supper,La comida al final del día.,2971,null
+3,en un café o restaurante,el cereal,cereal,picture,0,cereal
+3,en un café o restaurante,la cerveza,beer,picture,3134,cerveza
+3,en un café o restaurante,el ceviche,dish of marinated raw fish,picture,0,ceviche
+3,en un café o restaurante,la comida,food; meal; dinnner; supper,MC,873,null
+3,en un café o restaurante,el desayuno,breakfast,La comida en la mañana.,3157,null
+3,en un café o restaurante,la ensalada,salad,picture,0,ensalada
+3,en un café o restaurante,los espaguetis/los tallarines,spaghetti,picture,0,espaguetis
+3,en un café o restaurante,los frijoles,beans,picture,0,frijoles
+3,en un café o restaurante,la fruta,fruit,picture,1701,fruta
+3,en un café o restaurante,la hamburguesa,hamburger,picture,0,hamburguesa
+3,en un café o restaurante,el helado,ice cream,picture,2987,helado
+3,en un café o restaurante,el huevo,egg,picture,1900,huevo
+3,en un café o restaurante,el jamón,ham,picture,0,jamon
+3,en un café o restaurante,el jugo,juice,picture,3712,jugo
+3,en un café o restaurante,la leche,milk,picture,1334,leche
+3,en un café o restaurante,la lechuga,lettuce,picture,0,lechuga
+3,en un café o restaurante,la naranja,orange,picture,2950,naranja
+3,en un café o restaurante,el pan tostado/la tostada,toast,picture,0,pan tostado
+3,en un café o restaurante,la papa,potato,picture,2669,papa
+3,en un café o restaurante,las papas fritas,French fries,picture,0,papas fritas
+3,en un café o restaurante,el pescado,fish,picture,2584,pescado
+3,en un café o restaurante,el pollo,chicken,picture,3231,pollo
+3,en un café o restaurante,el queso,cheese,picture,3182,queso
+3,en un café o restaurante,el refresco,soda/ soft drink,picture,0,refresco
+3,en un café o restaurante,el sándwich,sandwich,picture,0,sandwich
+3,en un café o restaurante,la sopa,soup,picture,3795,sopa 
+3,en un café o restaurante,el té,tea,picture,2145,te
+3,en un café o restaurante,el tomate,tomato,picture,3920,tomate
+3,en un café o restaurante,el vegetal/la verdura,vegetable,picture,3304,vegetal
+3,en un café o restaurante,el vino,wine,picture,917,vino
+3,title,palabras y expresiones útiles,useful words and expressions,MC,0,null
+3,palabras y expresiones útiles,¿adónde?,where (to)?,MC,3926,null
+3,palabras y expresiones útiles,al (contraction of a + el),to the,MC,5,null
+3,palabras y expresiones útiles,¡Claro!,of course!,MC,259,null
+3,palabras y expresiones útiles,cerca de,close to/ near,MC,391,null
+3,palabras y expresiones útiles,después/ luego,after/ later,MC,87,null
+3,palabras y expresiones útiles,durante,during,Sinónimo de mientras.,148,null
+3,palabras y expresiones útiles,¡estupendo!,fabulous!,MC,3478,null
+3,palabras y expresiones útiles,felicidades,congratulations,MC,1892,null
+3,palabras y expresiones útiles,mientras,while,Sinónimo de durante.,154,null
+3,palabras y expresiones útiles,otro/a,other/ another,MC,31,null
+3,palabras y expresiones útiles,¿qué te parece?,what do you think?,MC,81,null
+3,palabras y expresiones útiles,si,if,MC,34,null
+3,title,expesiones que indican un tiempo futuro,expressions that denote future time,MC,0,null
+3,expesiones que indican un tiempo futuro,después,afterward,Sinónimo de más tarde.,87,null
+3,expesiones que indican un tiempo futuro,más tarde,later,Sinónimo de después.,242,null
+3,expesiones que indican un tiempo futuro,esta noche,tonight,MC,196,null
+3,expesiones que indican un tiempo futuro,mañana,tomorrow,El día después de hoy.,401,null
+3,expesiones que indican un tiempo futuro,pasado mañana,the day after tomorrow,El día después de mañana.,445,null
+3,expesiones que indican un tiempo futuro,la próxima semana,next week,La semana después de esta semana.,440,null
+3,expesiones que indican un tiempo futuro,el próximo mes/año,next month/year,El mes/año después de este mes/año.,440,null
+3,title,los números,numbers,MC,0,null
+3,los números,cien/ciento,one hundred,100,0,null
+3,los números,doscientos/as,two hundred,200,2344,null
+3,los números,trescientos/as,three hundred,300,3341,null
+3,los números,cuatrocientos/as,four hundred,400,0,null
+3,los números,quinientos/as,five hundred,500,3426,null
+3,los números,seiscientos/as,six hundred,600,0,null
+3,los números,setecientos/as,seven hundred,700,0,null
+3,los números,ochocientos/as,eight hundred,800,0,null
+3,los números,novecientos/as,nine hundred,900,0,null
+3,los números,mil,one thousand,1000,217,null
+3,los números,mil cien,one thousand ten,1010,0,null
+3,los números,dos mil,two thousand,2000,56,null
+3,los números,diez mil,ten thousand,10000,346,null
+3,los números,cien mil,one hundred thousand,100000,0,null
+3,los números,ciento cincuenta mil,one hundred fifty thousand,150000,300,null
+3,los números,quinientos mil,five hundred thousand,500000,3426,null
+3,los números,un millón (de),one million,1000000,523,null
+3,los números,dos millones (de),two million,2000000,523,null
+4,title,la familia,family,MC,0,null
+4,la familia,la abuela,grandmother,La mamá de mi mamá.,2408,null
+4,la familia,el abuelo,grandfather,El papá de mi papá.,1740,null
+4,la familia,la esposa,wife,Después de ser novia.,951,null
+4,la familia,el esposo,husband,Después de ser novio.,2676,null
+4,la familia,la hermana,sister,La hija de mis padres.,1256,null
+4,la familia,el hermano,brother,El hijo de mis padres.,539,null
+4,la familia,la hija,daughter,La hermana de mi hijo.,715,null
+4,la familia,el hijo,son,El hermano de mi hija.,166,null
+4,la familia,la madrastra,stepmother,La esposa nueva de mi papá.,0,null
+4,la familia,la madre,mother,Sinónimo de mamá.,278,null
+4,la familia,la mamá,mom,Sinónimo de madre.,2286,null
+4,la familia,la media hermana,half-sister,La hija de uno de mis padres.,1256,null
+4,la familia,el medio hermano,half-brother,El hijo de uno de mis padres.,539,null
+4,la familia,la nieta,granddaughter,La hija de mi hija.,2615,null
+4,la familia,el nieto,grandson,El hijo de mi hijo.,2615,null
+4,la familia,el niño/la niña,child,Una persona pequeña.,178,null
+4,la familia,la novia,fiancée; girlfriend,Antes de ser esposa.,2726,null
+4,la familia,el novio,fiancé; boyfriend,Antes de ser esposo.,2730,null
+4,la familia,el padrastro,stepfather,El esposo nuevo de mi mamá.,0,null
+4,la familia,el padre,father,Sinónimo de papá.,182,null
+4,la familia,los padres,parents,Mi mamá y papá.,182,null
+4,la familia,el papá,dad,Sinónimo de padre.,2281,null
+4,la familia,el pariente,relative,Una persona en mi familia.,2297,null
+4,la familia,el primo/la prima,cousin,Hijo/hija de mi tío.,1860,null
+4,la familia,la sobrina,niece,La hija de mi hermana.,3593,null
+4,la familia,el sobrino,nephew,El hijo de mi hermano.,3593,null
+4,la familia,la tía,aunt,La hermana de mi mamá.,2199,null
+4,la familia,el tío,uncle,El hermano de mi papá.,1755,null
+4,title,las descripciones,descriptions,MC,0,null
+4,las descripciones,casado/a,married,Una persona que tiene esposa/o.,1830,null
+4,las descripciones,divorciado/a,divorced,Una persona que no tiene esposa/o ahora.,0,null
+4,las descripciones,gemelo/a,twin,Dos hermanos con el mismo cumpleaños.,0,null
+4,las descripciones,ocupado/a,busy,Cuando una persona no tiene tiempo libre.,1601,null
+4,title,verbos,verbs,MC,0,null
+4,verbos,acostar(se) (ue),to put to bed; to go to bed,El opuesto de levantarse.,3077,null
+4,verbos,afeitar(se),to shave; to shave (oneself),picture,0,afeitarse
+4,verbos,almorzar (ue),to have lunch,Comer al mediodía.,3820,null
+4,verbos,ayudar,to help,MC,345,null
+4,verbos,bañar(se),to bathe; to take a bath,picture,3224,banarse
+4,verbos,casar(se),to get married,MC,1105,null
+4,verbos,cerrar (ie),to close,MC,454,null
+4,verbos,conectar(se),to connect to,MC,3084,null
+4,verbos,costar (ue),to cost,MC,626,null
+4,verbos,decir (g/ i),to say/ to tell,Sinónimo de hablar.,28,null
+4,verbos,dedicar,to dedicate,MC,415,null
+4,verbos,desayunar,to have breakfast,Comer en la mañana.,4588,null
+4,verbos,despertar(se) (ie),to wake (someone up); to wake up,El opuesto de dormirse.,734,null
+4,verbos,dormir (ue) la siesta,to take a nap,Dormir un poco durante el día.,4176,null
+4,verbos,dormir(se) (ue),to sleep; to fall asleep,El opuesto de despertarse.,857,null
+4,verbos,duchar(se),to give a shower to; to take a shower,picture,0,ducharse
+4,verbos,empezar (ie),to begin/ to start,El opuesto de terminar.,161,null
+4,verbos,encontrar (ue),to find,Después de buscar.,100,null
+4,verbos,entender (ie),to understand,Sinónimo de comprender,203,null
+4,verbos,llamar(se),to call; to be called,MC,104,null
+4,verbos,hacer,to do,MC,25,null
+4,verbos,jugar (ue),to play (a game/ sport),MC,355,null
+4,verbos,lavar(se),to wash (oneself),picture,1762,lavarse
+4,verbos,levantar(se),to raise; to get up,El opuesto de acostarse.,372,null
+4,verbos,maquillar(se),to put makeup on (someone); to put makeup on (oneself),picture,0,maquillarse
+4,verbos,pasar,to spend (time),MC,67,null
+4,verbos,pasear,to take a walk/ to stroll,Sinónimo de caminar.,1985,null
+4,verbos,pedir (i),to ask for; to order,MC,204,null
+4,verbos,peinar(se),to comb (someone´s hair); to comb (one´s hair),picture,0,peinarse
+4,verbos,pensar (ie),to think,MC,106,null
+4,verbos,pensar (ie) + infinitive,to plan to + verb,MC,106,null
+4,verbos,poder (ue),to be able to/ can,MC,428,null
+4,verbos,poner(se) (g) la ropa,to put one´s clothes on,El opuesto de quitarse la ropa.,77,null
+4,verbos,preferir (ie),to prefer,MC,541,null
+4,verbos,querer (ie),to want,Sinónimo de desear.,57,null
+4,verbos,quitar(se),to take away; to take off,El opuesto de ponerse.,669,null
+4,verbos,repetir (i),to repeat,Hacer algo muchas veces.,382,null
+4,verbos,secar(se),to dry (oneself),picture,2496,secarse
+4,verbos,seguir (i),to follow/ to go on,MC,97,null
+4,verbos,sentarse (ie),to sit down,MC,710,null
+4,verbos,sentir(se) (ie),to feel,MC,3690,null
+4,verbos,servir (i),to serve,MC,226,null
+4,verbos,tener (g/ ie),to have,MC,18,null
+4,verbos,terminar,to finish,El opuesto de empezar.,219,null
+4,verbos,venir (g/ ie),to come,MC,105,null
+4,verbos,vestir(se) (i),to dress; to get dressed,Sinónimo de ponerse la ropa.,1317,null
+4,verbos,visitar,to visit,MC,834,null
+4,verbos,volver (ue),to return,MC,112,null
+4,title,palabras y expreciones útiles,useful words and expressions,MC,0,null
+4,palabras y expreciones útiles,el bautizo,baptism/ christening,MC,0,null
+4,palabras y expreciones útiles,la foto(grafía),photo(graph),picture,2054,foto
+4,palabras y expreciones útiles,frecuentemente,frequently/ often,MC,3753,null
+4,palabras y expreciones útiles,juntos/as,together,MC,378,null
+4,palabras y expreciones útiles,el/la mayor,the oldest,El opuesto del menor.,138,null
+4,palabras y expreciones útiles,el matrimonio,marriage,MC,1109,null
+4,palabras y expreciones útiles,el/la menor,the youngest,El opuesto del mayor.,334,null
+4,palabras y expreciones útiles,tarde,late,El opuesto de temprano,242,null
+4,palabras y expreciones útiles,temprano,early,El opuesto de tarde.,1200,null
+4,palabras y expreciones útiles,un poco,a little,El opuesto de mucho.,74,null
+4,title,expresiones de tiempo,time expressions,MC,0,null
+4,expresiones de tiempo,primero,first,El opuesto de último.,60,null
+4,expresiones de tiempo,luego,later,MC,132,null
+4,expresiones de tiempo,poco después,a little later,MC,87,null
+4,expresiones de tiempo,más tarde,later,MC,242,null
+4,expresiones de tiempo,por último,lastly,MC,139,null
+4,title,otras expresiones con pensar,other expressions with pensar,MC,0,null
+4,otras expresiones con pensar,pensar en,to think about (someone/ something),MC,106,null
+4,otras expresiones con pensar,pensar de,to ask for an opinion,MC,106,null
+4,otras expresiones con pensar,pensar que,to answer with an opinion,MC,106,null
+4,title,expresiones con hacer,expressions with hacer,MC,0,null
+4,expresiones con hacer,hace + length of time + que + present tense,to say that an action/state began in the past and continues into the present,MC,25,null
+4,expresiones con hacer,¿cuánto tiempo + hace que + present tense?,how long has/have (subject) been (activity)?,MC,68,null
+5,title,la arquitectura,architecture,MC,0,null
+5,la arquitectura,el alquiler,rent,El dinero para vivir en un apartamento.,3733,null
+5,la arquitectura,el apartamento,apartment,Un lugar para vivir en un edificio grande.,0,null
+5,la arquitectura,el edificio,building,MC,717,null
+5,la arquitectura,el estilo,style,MC,707,null
+5,la arquitectura,la vivienda,housing,MC,1600,null
+5,title,en el baño,in the bathroom,MC,0,null
+5,en el baño,la bañera,bathtub,picture,0,banera
+5,en el baño,la ducha,shower,picture,0,ducha
+5,en el baño,las cortinas,curtains,picture,3630,cortinas
+5,en el baño,el inodoro,toilet,picture,0,inodoro
+5,en el baño,el jabón,soap,picture,0,jabon
+5,en el baño,el lavabo,bathroom sink,picture,0,lavabo
+5,en el baño,la toalla,towel,picture,4967,toalla
+5,title,en una casa,in a home,MC,0,null
+5,en una casa,el aire acondicionado,air conditioning,picture,0,aire acondicionado
+5,en una casa,el armario,closet/ armoire,picture,0,armario
+5,en una casa,el baño,bathroom,picture,1789,bano
+5,en una casa,la basura,garbage/ trash,picture,2594,basura
+5,en una casa,la calefacción,heating,Una cosa para tener más calor en un edificio.,0,null
+5,en una casa,la chimenea,fireplace,picture,4415,chimenea
+5,en una casa,la cocina,kitchen,picture,1673,cocina
+5,en una casa,el comedor,dining room,picture,3021,comedor
+5,en una casa,el cuarto,room; bedroom,picture,655,cuarto
+5,en una casa,la escalera,stairs,picture,2595,escalera
+5,en una casa,el garaje,garage,picture,0,garaje
+5,en una casa,la habitación,bedroom,Sinónimo de cuarto.,1610,null
+5,en una casa,la lavandería,laundry room,picture,0,lavanderia
+5,en una casa,el pasillo,corridor/ hall,picture,2666,pasillo
+5,en una casa,la piscina,swimming pool,picture,4653,piscina
+5,en una casa,el piso,floor; apartment,MC,797,null
+5,en una casa,la planta baja,first floor/ ground floor,MC,711,null
+5,en una casa,la sala,living room,picture,811,sala
+5,en una casa,la terraza,deck/ balcony,picture,4074,terraza
+5,title,los muebles y accesorios,furniture and accessories,MC,0,null
+5,los muebles y accesorios,la alfombra,carpet/ rug,picture,3158,alfombra
+5,los muebles y accesorios,la butaca,armchair,picture,0,butaca
+5,los muebles y accesorios,la cama,bed,picture,1185,cama
+5,los muebles y accesorios,la cómoda,dresser,picture,0,comoda
+5,los muebles y accesorios,la cortina,curtain,picture,3630,cortina
+5,los muebles y accesorios,el cuadro,picture/ painting,picture,779,cuadro
+5,los muebles y accesorios,el espejo,mirror,picture,1730,espejo
+5,los muebles y accesorios,la lámpara,lamp,picture,3347,lampara
+5,los muebles y accesorios,la mesa,table,picture,461,mesa
+5,los muebles y accesorios,la silla,chair,picture,1307,silla
+5,los muebles y accesorios,el sofá,sofa,picture,0,sofa
+5,title,los electrodomésticos,appliances,MC,0,null
+5,los electrodomésticos,la aspiradora,vacuum cleaner,picture,0,aspiradora
+5,los electrodomésticos,el lavaplatos,dishwasher,picture,0,lavaplatos
+5,los electrodomésticos,el (horno de) microondas,microwave (oven),picture,0,microondas
+5,los electrodomésticos,el/la radio,radio,picture,824,radio
+5,los electrodomésticos,el refrigerador,refrigerator,picture,0,refrigerador
+5,title,expresiones con tener,expressions with tener,MC,0,null
+5,expresiones con tener,tener calor,to be hot,picture,989,tener calor
+5,expresiones con tener,tener cuidado,to be careful,MC,754,null
+5,expresiones con tener,tener frío,to be cold,picture,907,tener frio
+5,expresiones con tener,tener hambre,to be hungry,picture,1204,tener hambre
+5,expresiones con tener,tener miedo,to be afraid,picture,450,tener miedo
+5,expresiones con tener,tener prisa,to be in a hurry,picture,3253,tener prisa
+5,expresiones con tener,tener razón,to be right,MC,212,null
+5,expresiones con tener,tener sed,to be thirsty,picture,3080,tener sed
+5,expresiones con tener,tener sueño,to be sleepy,picture,583,tener sueno
+5,expresiones con tener,tener suerte,to be lucky,MC,725,null
+5,title,en la cocina,in the kitchen,MC,0,null
+5,en la cocina,la estufa,stove,picture,0,estufa
+5,en la cocina,el fregadero,kitchen sink,picture,0,fregadero
+5,en la cocina,el plato,dish/ plate,picture,1836,plato
+5,title,palabras útiles,useful words,MC,0,null
+5,palabras útiles,la desventaja,disadvantage,El opuesto de una ventaja.,0,null
+5,palabras útiles,el trabajo,work,La cosa que hacemos para ganar dinero.,145,null
+5,palabras útiles,la ventaja,advantage,El opuesto de una desventaja.,1226,null
+5,palabras útiles,la vista,view,MC,310,null
+5,title,en el jardín,in the garden,MC,0,null
+5,en el jardín,la barbacoa,barbecue pit; barbecue (event),picture,0,barbacoa
+5,en el jardín,el césped,lawn,picture,0,cesped
+5,en el jardín,la hoja,leaf,picture,1000,hoja
+5,title,los lugares,places,MC,0,null
+5,los lugares,las afueras,outskirts,El lugar lejos del centro.,4225,null
+5,los lugares,el barrio,neighborhood,Un lugar con muchas casas.,1146,null
+5,los lugares,la calle,street,picture,248,calle
+5,los lugares,el centro,downtown/ center,El lugar en el centro de la ciudad.,339,null
+5,los lugares,cerca (de),near/ close (to),El opuesto de lejos.,391,null
+5,los lugares,lejos (de),far (from),El opuesto de cerca.,469,null
+5,los lugares,la zona,area,MC,449,null
+5,title,los números ordinales,ordinal numbers,MC,0,null
+5,los números ordinales,primero/primer,first,.../ segundo/ tercero,60,null
+5,los números ordinales,segundo,second,primero/ .../ tercero,243,null
+5,los números ordinales,tercero/tercer,third,segundo/ .../ cuarto,394,null
+5,los números ordinales,cuarto,fourth,tercero/ .../ quinto,655,null
+5,los números ordinales,quinto,fifth,cuarto/ .../ sexto,1179,null
+5,los números ordinales,sexto,sixth,quinto/ .../ séptimo,3140,null
+5,los números ordinales,séptimo,seventh,sexto/ .../ octavo,0,null
+5,los números ordinales,octavo,eighth,séptimo/ .../ noveno,0,null
+5,los números ordinales,noveno,ninth,octavo/ .../ décimo,0,null
+5,los números ordinales,décimo,tenth,octavo/ noveno/ ...,3355,null
+5,title,las descripciones,descriptions,MC,0,null
+5,las descripciones,limpio/a,clean,El opuesto de sucio.,1397,null
+5,las descripciones,ordenado/a,tidy,MC,2417,null
+5,las descripciones,seco/a,dry,MC,1178,null
+5,las descripciones,sucio/a,dirty,El opuesto de limpio.,1994,null
+5,title,para la cama,for the bed,MC,0,null
+5,para la cama,la almohada,pillow,picture,4939,almohada
+5,para la cama,la manta,blanket,picture,4063,manta
+5,para la cama,la sábana,sheet,picture,3859,sabana
+5,title,verbos,verbs,MC,0,null
+5,verbos,barrer,to sweep,picture,3156,barrer
+5,verbos,cocinar,to cook,picture,3372,cocinar
+5,verbos,creer,to believe,MC,91,null
+5,verbos,doblar,to fold,Preparar la ropa para la cómoda.,1981,null
+5,verbos,lavar,to wash,Limpiar con agua.,1762,null
+5,verbos,limpiar,to clean,Para no tener un lugar sucio.,1537,null
+5,verbos,ordenar,to tidy up,Sinónimo de organizar.,1167,null
+5,verbos,pasar la aspiradora,to vacuum,picture,67,pasar la aspiradora
+5,verbos,planchar,to iron,picture,0,planchar
+5,verbos,recoger (j),to pick up,MC,634,null
+5,verbos,sacar,to take out,picture,228,sacar
+5,verbos,secar,to dry,Quitar el agua.,2496,null
+5,verbos,tender (ie),to hang (clothes),picture,727,tender la ropa
+5,title,electronic items,cosas electrónicas,MC,0,null
+5,electronic items,el cargador,charger,picture,0,cargador
+5,electronic items,la consola de videojuegos,games console,picture,0,consola
+5,electronic items,la impresora,printer,picture,0,impresora
+6,title,los accesorios,accessories,MC,0,null
+6,los accesorios,al anillo,ring,picture,3150,anillo
+6,los accesorios,el arete,earring,picture,0,arete
+6,los accesorios,la billetera,wallet,picture,0,billetera
+6,los accesorios,la bolsa/el bolso,purse,picture,1915,bolsa
+6,los accesorios,la bufanda,scarf,picture,0,bufanda
+6,los accesorios,el cinturón,belt,picture,3922,cinturon
+6,los accesorios,el collar,necklace,picture,4197,collar
+6,los accesorios,las gafas de sol,sunglasses,picture,0,gafas de sol
+6,los accesorios,la gorra,cap,picture,0,gorra
+6,los accesorios,el guante,glove,picture,3392,guante
+6,los accesorios,la joya,piece of jewelry,MC,2698,null
+6,los accesorios,el pañuelo,handkerchief,picture,3900,panuelo
+6,los accesorios,el paraguas,umbrella,picture,0,paraguas
+6,los accesorios,la pulsera,bracelet,picture,0,pulsera
+6,los accesorios,el sombrero,hat,picture,2899,sombrero
+6,title,diseños,designs,MC,0,null
+6,diseños,de color entero,solid,picture,760,color entero
+6,diseños,de cuadros,plaid,picture,779,cuadros
+6,diseños,de lunares,dots,picture,0,lunares
+6,diseños,de rayas,stripes,picture,3249,rayas
+6,title,las compras,shopping,MC,0,null
+6,las compras,el almacén,department store; warehouse,Un lugar muy grande para comprar.,2455,null
+6,las compras,el centro comercial,shopping center,Un lugar con muchos lugares para comprar.,1253,null
+6,las compras,el escaparate,store window,Una ventana en una tienda.,4725,null
+6,las compras,el mercado,market,Un lugar pequeño para comprar.,609,null
+6,las compras,el precio,price,Cuanto cuesta.,708,null
+6,las compras,la rebaja,sale,MC,0,null
+6,las compras,el regalo,present,picture,2067,regalo
+6,las compras,el supermercado,supermarket,Un lugar para comprar comida.,0,null
+6,las compras,la tarjeta de crédito,credit card,picture,2309,tarjeta de credito
+6,las compras,la tienda,store,Un lugar normal para comprar de tamaño normal.,1650,null
+6,title,la ropa,clothes,MC,0,null
+6,la ropa,el abrigo,coat,picture,2996,abrigo
+6,la ropa,la bata,robe,picture,0,bata
+6,la ropa,la blusa,blouse,picture,0,blusa
+6,la ropa,las botas,boots,picture,2735,botas
+6,la ropa,los calcetines,socks,picture,0,calcetines
+6,la ropa,el calzado,footwear,MC,0,null
+6,la ropa,los calzoncillos,boxer shorts,picture,0,calzoncillos
+6,la ropa,la camisa,shirt,picture,2443,camisa
+6,la ropa,la camisa de manga corta,short sleeve shirt,picture,3266,camisa de manga corta
+6,la ropa,la camiseta,T-shirt,picture,4427,camiseta
+6,la ropa,el camisón,nightgown,picture,0,camison
+6,la ropa,la chaqueta,jacket,picture,4372,chaqueta
+6,la ropa,la corbata,tie,picture,3238,corbata
+6,la ropa,la falda,skirt,picture,3143,falda
+6,la ropa,el impermeable,raincoat,picture,0,impermeable
+6,la ropa,las medias,stockings/ socks,picture,0,medias
+6,la ropa,los pantalones,pants,picture,2489,pantalones
+6,la ropa,los pantalones cortos,shorts,picture,2489,pantalones cortos
+6,la ropa,las pantimedias,pantyhose,picture,0,pantimedias
+6,la ropa,el/la piyama,pajamas,picture,0,piyama
+6,la ropa,la ropa interior,underwear,MC,614,null
+6,la ropa,el saco,blazer/ jacket,picture,2798,saco
+6,la ropa,las sandalias,sandals,picture,0,sandalias
+6,la ropa,el sostén,bra,picture,0,sosten
+6,la ropa,la sudadera,sweatshirt; jogging suit,picture,0,sudadera
+6,la ropa,el suéter,sweater,picture,0,sueter
+6,la ropa,el traje,suit,picture,1710,traje
+6,la ropa,el traje de baño,bathing suit,picture,1710,traje de bano
+6,la ropa,los vaqueros/los jeans,jeans,picture,0,vaqueros
+6,la ropa,el vestido,dress,picture,1870,vestido
+6,la ropa,las zapatillas,slippers,picture,0,zapatillas
+6,la ropa,las zapatillas de deporte,tennis shoes,picture,2019,zapatillas de deporte
+6,la ropa,los zapatos,shoes,picture,1932,zapatos
+6,la ropa,los zapatos de tacón,high-heeled shoes,picture,0,zapatos de tacon
+6,title,palabras y expresiones útiles,useful words and expressions,MC,0,null
+6,palabras y expresiones útiles,la artesanía,handicrafts,MC,0,null
+6,palabras y expresiones útiles,la cosa,thing,MC,78,null
+6,palabras y expresiones útiles,el cuero,leather,MC,2848,null
+6,palabras y expresiones útiles,el dinero,money,picture,291,dinero
+6,palabras y expresiones útiles,en efectivo,in cash,MC,1820,null
+6,palabras y expresiones útiles,¿En qué puedo servirle(s)?,How may I help you?,MC,226,null
+6,palabras y expresiones útiles,enseguida,immediately,MC,2707,null
+6,palabras y expresiones útiles,estar de moda,to be fashionable,Muy popular.,1180,null
+6,palabras y expresiones útiles,ir de compras,to go shopping,Sinónimo de comprar.,1374,null
+6,palabras y expresiones útiles,el juguete,toy,picture,2672,juguete
+6,palabras y expresiones útiles,Me gustaría...,I would like...,MC,353,null
+6,palabras y expresiones útiles,la talla,size (clothes),MC,4330,null
+6,palabras y expresiones útiles,el tamaño,size,MC,776,null
+6,title,telas,fabrics,MC,0,null
+6,telas,el algodón,cotton,MC,3613,null
+6,telas,la lana,wool,MC,3060,null
+6,telas,el poliéster,polyester,MC,0,null
+6,telas,la seda,silk,MC,3271,null
+6,title,verbos,verbs,MC,0,null
+6,verbos,caer bien/mal,to be liked (or not),MC,245,null
+6,verbos,calzar,to wear (shoes),Sinónimo de llevar zapatos.,4414,null
+6,verbos,cambiar,to change/ to exchange,MC,246,null
+6,verbos,dar,to give/ to hand,MC,39,null
+6,verbos,encantar,to delight/ to love,Más fuerte que gustar.,2859,null
+6,verbos,encontrar (ue),to find,Después de buscar.,100,null
+6,verbos,entrar (en),to go in/ to enter,El opuesto de salir.,179,null
+6,verbos,fascinar,to fascinate/ to be pleasing to,Más fuerte que interesar.,4854,null
+6,verbos,gastar,to spend,MC,1526,null
+6,verbos,gustar,to be pleasing to/ to like,No tan fuerte como encantar.,353,null
+6,verbos,interesar,to interest,No tan fuerte como fascinar.,448,null
+6,verbos,llevar,to wear/ to take,MC,93,null
+6,verbos,mostrar (ue),to show,MC,392,null
+6,verbos,pagar,to pay (for),Usar dinero para comprar.,342,null
+6,verbos,parecer (zc),to seem,MC,81,null
+6,verbos,prestar,to lend,MC,767,null
+6,verbos,probarse (ue),to try on,MC,911,null
+6,verbos,quedar,to fit; to be left over,MC,89,null
+6,verbos,regalar,to give (a present),Dar un regalo.,1528,null
+6,verbos,regatear,to haggle,MC,0,null
+6,verbos,valer,to be worth,MC,387,null
+6,verbos,vender,to sell,MC,526,null
+6,title,expresiones de tiempo,time expressions,MC,0,null
+6,expresiones de tiempo,anoche,last night,La noche antes de hoy.,3418,null
+6,expresiones de tiempo,anteayer,the day before yesterday,El día antes de ayer.,0,null
+6,expresiones de tiempo,ante(a)noche,the night before last,La noche antes de anoche.,0,null
+6,expresiones de tiempo,el año/mes pasado,last year/month,El año/mes antes de este año/mes.,445,null
+6,expresiones de tiempo,ayer,yesterday,El día antes de hoy.,1112,null
+6,expresiones de tiempo,hace un día/mes/año (que),it has been a day/month/year since,MC,25,null
+6,expresiones de tiempo,una semana atrás,a week ago,MC,483,null
+6,expresiones de tiempo,la semana pasada,last week,La semana antes de esta semana.,445,null
+6,title,las estaciones del año,seasons of the year,MC,0,null
+6,las estaciones del año,el invierno,winter,picture,1340,invierno
+6,las estaciones del año,el otoño,fall,picture,3357,otono
+6,las estaciones del año,la primavera,spring,picture,2325,primavera
+6,las estaciones del año,el verano,summer,picture,893,verano
+6,las descripciones,las descripciones,descriptions,MC,0,null
+6,las descripciones,ancho/a,wide,El opuesto de estrecho.,1720,null
+6,las descripciones,barato/a,inexpensive/ cheap,El opuesto de caro.,1470,null
+6,las descripciones,caro/a,expensive,El opuesto de barato.,1876,null
+6,las descripciones,estrecho/a,narrow/ tight,El opuesto de ancho.,1686,null
+6,las descripciones,magnífico/a,great,MC,1812,null
+6,las descripciones,precioso/a,beautiful,Muy bonito.,1839,null
+6,las descripciones,rebajado/a,marked down,MC,4159,null
+7,title,los deportes,sports,MC,0,null
+7,los deportes,al atletismo,track and field,Deportes en que corren mucho.,0,null
+7,los deportes,el baloncesto/el básquetbol,basketball,Deporte con una pelota anaranjada y dos cestos.,0,null
+7,los deportes,el béisbol,baseball,Deporte con una pelota blanca y un bate.,0,null
+7,los deportes,el ciclismo,cycling,Deporte con bicicletas.,0,null
+7,los deportes,el esquí,skiing/ ski,Deporte en el agua o en la nieve.,0,null
+7,los deportes,el fútbol (americano),soccer (football),Deporte con una pelota negra y blanca.,2513,null
+7,los deportes,el golf,golf,Deporte con una pelota pequeña blanca y varios palos.,0,null
+7,los deportes,el hockey sobre hierba,field hockey,Deporte en que cada jugador tiene un palo.,0,null
+7,los deportes,la natación,swimming,Deporte en el agua.,0,null
+7,los deportes,el tenis,tennis,Deporte con una pelota y dos raquetas.,4968,null
+7,los deportes,el vóleibol,volleyball,Deporte que se juega en la playa con una pelota blanca.,0,null
+7,title,el equipo deportivo,sports equipment,MC,0,null
+7,el equipo deportivo,el bate,bat,picture,0,bate
+7,el equipo deportivo,el balón/la pelota,ball,picture,0,pelota
+7,el equipo deportivo,el cesto/la cesta,basket/ hoop,picture,0,cesta
+7,el equipo deportivo,los palos,golf clubs,picture,2012,palos
+7,el equipo deportivo,la raqueta,racquet,picture,0,raqueta
+7,el equipo deportivo,la red,net,picture,1658,red
+7,title,los eventos,events,MC,0,null
+7,los eventos,el campeonato,championship,Cuando muchos equipos compiten por un trofeo.,0,null
+7,los eventos,la carrera,race,Cuando una persona quiere correr más rapido que las otras.,485,null
+7,los eventos,el juego/el partido,game,MC,425,null
+7,title,las personas,people,MC,0,null
+7,las personas,el árbitro,umpire/ referee,picture,0,arbitro
+7,las personas,el campeón/la campeona,champion,La persona que gana un campeonato.,4840,null
+7,las personas,el/la ciclista,cyclist,Persona que monta en bicicleta.,0,null
+7,las personas,el/la entrenador/a,coach,Persona que entrena a los jugadores.,0,null
+7,las personas,el equipo,team; equipment,Grupo de personas que juegan un deporte juntos.,737,null
+7,las personas,el/la hincha,fan,Persona a quien le gusta un equipo mucho.,0,null
+7,las personas,el/la jugador/a,player,Persona que juega a un deporte.,3168,null
+7,las personas,el/la tenista,tennis player,Persona que juega al tenis.,0,null
+7,title,la naturaleza,nature,MC,0,null
+7,la naturaleza,el árbol,tree,picture,833,arbol
+7,la naturaleza,el lago,lake,picture,2680,lago
+7,title,palabras y expresiones útiles,useful words and expressions,MC,0,null
+7,palabras y expresiones útiles,cada,each,MC,96,null
+7,palabras y expresiones útiles,conmigo,with me,MC,1845,null
+7,palabras y expresiones útiles,contigo,with you (familiar),MC,3017,null
+7,palabras y expresiones útiles,contrario/a,opposing,MC,460,null
+7,palabras y expresiones útiles,el penalti,penalty (in sports),Esto pasa cuando haces algo malo en un deporte.,0,null
+7,title,el tiempo,weather,MC,0,null
+7,el tiempo,está despejado,it´s clear,picture,4573,despejado
+7,el tiempo,está nublado,it´s cloudy,picture,0,nublado
+7,el tiempo,hace fresco,it´s cool,MC,2124,null
+7,el tiempo,hace viento,it´s windy,picture,1216,viento
+7,el tiempo,el hielo,ice,picture,2321,hielo
+7,el tiempo,la lluvia,rain,picture,1217,lluvia
+7,el tiempo,la nieve,snow,picture,2423,nieve
+7,title,los lugares,places,MC,0,null
+7,los lugares,el campo,field,MC,295,null
+7,los lugares,la cancha,court/ golf course,MC,4485,null
+7,los lugares,la piscina/la pileta,pool,picture,4653,piscina
+7,los lugares,la pista,slope; court; track,MC,2065,null
+7,title,verbos,verbs,MC,0,null
+7,verbos,congelar(se),to freeze,MC,0,null
+7,verbos,construir,to build/ to develop,Sinónimo de hacer.,525,null
+7,verbos,discutir,to argue,Sinónimo de no estar de acuerdo.,859,null
+7,verbos,durar,to last,Cuanto tiempo algo necesita.,812,null
+7,verbos,enfadarse,to get angry,El opuesto de hacerse feliz.,0,null
+7,verbos,esquiar,to ski,Practicar el esquí.,0,null
+7,verbos,ganar,to win,El opuesto de perder.,286,null
+7,verbos,hacer parapente,to go paragliding,MC,0,null
+7,verbos,hacer surf,to surf,MC,0,null
+7,verbos,ir(se),to go away/ to leave,Sinónimo de salir.,30,null
+7,verbos,jugar (ue) a los bolos,to bowl,Un juego con una pelota negra.,0,null
+7,verbos,levantar pesas,to lift weights,MC,0,null
+7,verbos,llover (ue),to rain,MC,2053,null
+7,verbos,meter un gol,to score a goal,MC,0,null
+7,verbos,nevar (ie),to snow,MC,0,null
+7,verbos,oír,to hear,Sinónimo de escuchar.,263,null
+7,verbos,patinar,to skate,MC,0,null
+7,verbos,perder (ie),to lose,El opuesto de ganar.,190,null
+7,verbos,pitar,to whistle,picture,0,pitar
+7,verbos,preparar(se),to train,MC,499,null
+7,verbos,recorrer,to travel/ to cover (distance),MC,808,null
+7,verbos,traducir (zc),to translate,Cambiar de un idioma a otro.,1603,null
+7,title,las estaciones,seasons,MC,0,null
+7,las estaciones,el invierno,winter,El opuesto del verano.,1340,null
+7,las estaciones,el otoño,fall,El opuesto de la primavera.,3357,null
+7,las estaciones,la primavera,spring,El opuesto del otoño.,2325,null
+7,las estaciones,el verano,summer,El opuesto del invierno.,893,null
+7,title,verbos reflexivos,reflexive verbs,MC,0,null
+7,verbos reflexivos,enfermar(se),to get sick,El opuesto de sentirse bien.,4513,null
+7,verbos reflexivos,preocupar(se),to be worried,El opuesto de estar tranquilo.,766,null
+7,verbos reflexivos,arrepentir(se),to regret,MC,3528,null
+7,verbos reflexivos,atrever(se),to dare,MC,1276,null
+7,verbos reflexivos,divertir(se),to have fun,MC,2356,null
+7,verbos reflexivos,disculpar(se),to apologize,Sinónimo de pedir perdón.,4079,null
+7,verbos reflexivos,quejar(se),to complain,MC,1530,null
+7,verbos reflexivos,sentir(se) (ie),to feel,MC,3690,null
+7,verbos reflexivos,dormir (ue),to sleep,MC,857,null
+7,verbos reflexivos,preferir (ie),to prefer,Cuando te gusta una cosa más que otra.,541,null
+7,verbos reflexivos,despedir(se),to say goodbye,Decir adiós.,1940,null
+7,verbos reflexivos,divertir(se),to have fun,MC,2356,null
+7,title,verbos con cambio en la raíz,stem-changing verbs,MC,0,null
+7,verbos con cambio en la raíz,morir,to die,Cuando una persona deja de vivir.,293,null
+7,verbos con cambio en la raíz,pedir,to ask for/order,MC,204,null
+7,verbos con cambio en la raíz,reír,to laugh,MC,1493,null
+7,verbos con cambio en la raíz,repetir,to repeat,Hacer algo más de una vez.,382,null
+7,verbos con cambio en la raíz,seguir,to follow,Sinónimo de venir después de.,97,null
+7,verbos con cambio en la raíz,sentir(se) (ie),to feel,MC,3690,null
+7,verbos con cambio en la raíz,servir,to serve,Dar algo a alguien.,226,null
+7,verbos con cambio en la raíz,vestir(se) (i),to get dressed,El acto de empezar a llevar ropa.,1317,null
+8,title,las fiestas y las celebraciones,holidays and celebrations,MC,0,null
+8,las fiestas y las celebraciones,la alegría,joy,Estar muy contento.,1429,null
+8,las fiestas y las celebraciones,el aserrín,sawdust,El resultado de crear con madera.,0,null
+8,las fiestas y las celebraciones,el carnaval,carnival,Una celebración con desfile de gente que se disfraza.,0,null
+8,las fiestas y las celebraciones,la carreta,cart/ wagon,Vehículo para transportar cosas.,0,null
+8,las fiestas y las celebraciones,la carroza,float (in a parade),Vehículo adornado en un desfile.,0,null
+8,las fiestas y las celebraciones,la celebración,celebration,Sinónimo de fiesta.,3409,null
+8,las fiestas y las celebraciones,la comparsa,group dressed in similar costumes,Grupo de personas disfrazadas igualmente.,0,null
+8,las fiestas y las celebraciones,la corrida (de toros),bullfight,Actividad en que una persona mata a un animal grande.,0,null
+8,las fiestas y las celebraciones,la costumbre,custom,Una cosa que hacen cada año.,700,null
+8,las fiestas y las celebraciones,el desfile,parade,Cuando muchas personas caminan por la calle.,3973,null
+8,las fiestas y las celebraciones,el día feriado,legal holiday,Un día sin trabajo.,0,null
+8,las fiestas y las celebraciones,el día festivo,holiday,Un día con una celebración.,0,null
+8,las fiestas y las celebraciones,el festival,festival,Sinónimo de celebración.,0,null
+8,las fiestas y las celebraciones,la festividad/ la fiesta,festivity; holiday; celebration,MC,0,null
+8,las fiestas y las celebraciones,los fuegos artificiales,fireworks,Luces para una celebración.,2018,null
+8,las fiestas y las celebraciones,la invitación,invitation,Un mensaje sobre una celebración.,2300,null
+8,las fiestas y las celebraciones,el preparativo,preparation,El proceso de preparar para algo.,0,null
+8,las fiestas y las celebraciones,la procesión,procession,Sinónimo de desfile (normalmente religioso).,4280,null
+8,las fiestas y las celebraciones,la semilla,seed,Es para crecer una planta nueva.,2875,null
+8,las fiestas y las celebraciones,el toro,bull,Un animal muy grande y fuerte.,2331,null
+8,las fiestas y las celebraciones,la tradición,tradition,Sinónimo de costumbre.,898,null
+8,title,verbos,verbs,MC,0,null
+8,verbos,acompañar,to accompany,Cuando dos cosas están juntas.,512,null
+8,verbos,comenzar (ie),to begin,Sinónimo de empezar.,223,null
+8,verbos,dar una vuelta,to take a walk,Sinónimo de pasear.,600,null
+8,verbos,disfrazarse ( c ),to wear a costume,Vestirse muy diferente.,4979,null
+8,verbos,encerrar (ie),to lock up/ shut in,picture,1861,encerrar
+8,verbos,enterrar,to bury,picture,2779,enterrar
+8,verbos,invitar,to invite,Dar un mensaje sobre una celebración.,954,null
+8,verbos,mantener (g/ ie),to maintain,No cambiar nada.,234,null
+8,verbos,matar,to kill,Quitar la vida.,557,null
+8,verbos,pasarlo bien,to have a good time,Sinónimo de divertirse.,67,null
+8,verbos,quedar,to arrange to meet,MC,89,null
+8,verbos,recordar (ue),to remember,MC,215,null
+8,verbos,reunirse,to get together,Estar juntos.,509,null
+8,title,las personas,people,MC,0,null
+8,las personas,el antepasado,ancestor,Persona muerta en la familia.,3600,null
+8,las personas,la gente,people,Un grupo de personas.,158,null
+8,las personas,el/la peregrino/a,pilgrim,picture,0,peregrino
+8,title,los lugares,places,MC,0,null
+8,los lugares,el cementerio,cementery,picture,2700,cementerio
+8,los lugares,la iglesia,church,picture,1111,iglesia
+8,los lugares,el teatro,theater,picture,861,teatro
+8,title,otras celebraciones,other celebrations,MC,0,null
+8,otras celebraciones,el Año Nuevo,New Year´s Day,El primer día de enero.,99,null
+8,otras celebraciones,el Día de Acción de Gracias,Thanksgiving Day,El cuarto jueves en noviembre.,405,null
+8,otras celebraciones,el Día de las Brujas,Halloween,El treinta y uno de octubre.,4305,null
+8,otras celebraciones,el Día de los Enamorados/del Amor y la Amistad,Valentine´s Day,El catorce de febrero.,3274,null
+8,otras celebraciones,el Día de la Independencia de México,Mexican Independence Day,El dieciséis de septiembre.,1767,null
+8,otras celebraciones,el Día de la Madre,Mother´s Day,El segundo domingo en mayo.,278,null
+8,otras celebraciones,el Día del Padre,Father´s Day,El tercer domingo en junio.,182,null
+8,otras celebraciones,la Navidad,Christmas,El veinticinco de diciembre.,0,null
+8,otras celebraciones,la Nochebuena,Christmas Eve,El veinticuatro de diciembre.,0,null
+8,otras celebraciones,la Nochevieja,New Year´s Eve,El último día del año.,0,null
+8,otras celebraciones,la Pascua,Easter,Una celebración en la primavera.,0,null
+8,title,el tiempo,time,MC,0,null
+8,el tiempo,antes,before,El opuesto de después.,114,null
+8,el tiempo,el comienzo,beginning,La primera parte de algo.,1162,null
+8,el tiempo,entonces,then,MC,76,null
+8,el tiempo,hoy en día,nowadays,MC,164,null
+8,el tiempo,mientras,while,Sinónimo de durante.,154,null
+8,title,las descripciones,descriptions,MC,0,null
+8,las descripciones,adornado/a,decorated,MC,4179,null
+8,las descripciones,animado/a,lively,MC,3163,null
+8,las descripciones,difunto/a/ muerto/a,dead,Que no tiene vida.,0,null
+8,las descripciones,horroroso/a,horrific,Sinónimo de malévolo.,0,null
+8,las descripciones,malévolo/a,malevolent,Sinónimo de horroroso.,0,null
+8,las descripciones,maravilloso/a,marvelous,Sinónimo de muy/ muy bueno.,1743,null
+8,las descripciones,suave,soft,MC,1784,null
+8,las descripciones,último/a,last,El opuesto de primero.,139,null
+8,title,palabras y expresiones útiles,useful words and expressions,MC,0,null
+8,palabras y expresiones útiles,cómo no,of course,Sinónimo de claro.,126,null
+8,palabras y expresiones útiles,estupendamente,marvellously,MC,3478,null
+8,palabras y expresiones útiles,en vivo,live,Sinónimo de en persona.,453,null
+8,title,expresiones de tiempo,time expressions,MC,0,null
+8,expresiones de tiempo,a veces,sometimes/ at times,MC,44,null
+8,expresiones de tiempo,frecuentemente,frequently,MC,3753,null
+8,expresiones de tiempo,generalmente,generally,MC,1463,null
+8,expresiones de tiempo,nunca,never,El opuesto de siempre.,151,null
+8,expresiones de tiempo,siempre,always,El opuesto de nunca.,90,null
+8,expresiones para hacer comparaciones,expresiones para hacer comparaciones,expressions used to make comparisons,MC,0,null
+8,expresiones para hacer comparaciones,más... que,more... than,El opuesto de menos... que.,24,null
+8,expresiones para hacer comparaciones,menos... que,less... than,El opuesto de más... que.,98,null
+8,expresiones para hacer comparaciones,más de,more than,El opuesto de menos de.,24,null
+8,expresiones para hacer comparaciones,menos de,less than,El opuesto de más de.,98,null
+8,expresiones para hacer comparaciones,mayor,older,El opuesto de menor.,138,null
+8,expresiones para hacer comparaciones,menor,younger,El opuesto de mayor.,334,null
+8,expresiones para hacer comparaciones,mejor,better,El opuesto de peor.,121,null
+8,expresiones para hacer comparaciones,peor,worse,El opuesto de mejor.,866,null
+8,expresiones para hacer comparaciones,tan... como,as... as,MC,83,null
+8,expresiones para hacer comparaciones,tanto/a... como,as much... as,MC,79,null
+8,expresiones para hacer comparaciones,tantos/as... como,as many... as,MC,79,null
+8,expresiones para hacer comparaciones,tanto como,as much as,MC,79,null
+8,expresiones para hacer comparaciones,el/la más...,the most...,El opuesto de el menos...,24,null
+8,expresiones para hacer comparaciones,el/la menos...,the least...,El opuesto de el más...,98,null
+8,expresiones para hacer comparaciones,el/la mejor,the best,El opuesto de el peor.,121,null
+8,expresiones para hacer comparaciones,el/la peor,the worst,El opuesto de el mejor.,866,null
+8,expresiones para hacer comparaciones,el/la mayor,the greatest,El opuesto de el menor.,138,null
+8,expresiones para hacer comparaciones,el/la menor,the least,El opuesto de el mayor.,334,null
+9,title,las profesiones/ oficios y ocupaciones,professions/ trades/ and occupations,MC,0,null
+9,las profesiones/ oficios y ocupaciones,el/la abogado/a,lawyer,Persona que habla con el juez.,1680,null
+9,las profesiones/ oficios y ocupaciones,el actor/la actriz,actor/actress,Persona en una película.,1705,null
+9,las profesiones/ oficios y ocupaciones,el/la agricultor/a,farmer,Persona que cultiva comida.,4794,null
+9,las profesiones/ oficios y ocupaciones,el ama/o de casa,housewife/ homemaker,Persona que trabaja en la casa.,2787,null
+9,las profesiones/ oficios y ocupaciones,el/la arquitecto/a,architect,Persona que hace dibujos de edificios.,2808,null
+9,las profesiones/ oficios y ocupaciones,el/la bibliotecario/a,librarian,Persona que trabaja con libros.,0,null
+9,las profesiones/ oficios y ocupaciones,el/la bombero/a,firefighter,Persona que trabaja con incendios.,0,null
+9,las profesiones/ oficios y ocupaciones,el/la cajero/a,cashier,Persona que tiene el dinero en la tienda.,0,null
+9,las profesiones/ oficios y ocupaciones,el/la carpintero/a,carpenter,Persona que hace muebles.,0,null
+9,las profesiones/ oficios y ocupaciones,el/la chef,chef,Persona que cocina.,0,null
+9,las profesiones/ oficios y ocupaciones,el/la chofer,driver,Persona que controla el auto.,0,null
+9,las profesiones/ oficios y ocupaciones,el/la científico/a,scientist,Persona que estudia la ciencia.,1634,null
+9,las profesiones/ oficios y ocupaciones,el/la contador/a,accountant,Persona que ordena dinero.,0,null
+9,las profesiones/ oficios y ocupaciones,el/la contratista,contractor,Persona que hace trabajos para otros.,0,null
+9,las profesiones/ oficios y ocupaciones,el/la ejecutivo/a,executive,Jefe de una compañía grande.,3065,null
+9,las profesiones/ oficios y ocupaciones,el/la electricista,electrician,Persona que trae luz.,0,null
+9,las profesiones/ oficios y ocupaciones,el/la empleado/a,employee,Persona que trabaja para otra persona.,1104,null
+9,las profesiones/ oficios y ocupaciones,el/la enfermero/a,nurse,Persona que ayuda a los médicos.,3122,null
+9,las profesiones/ oficios y ocupaciones,el/la gerente (de ventas),(sales) manager,Jefe de una tienda.,0,null
+9,las profesiones/ oficios y ocupaciones,el hombre/la mujer de negocios,businessman/woman,Empleado de una compañía.,864,null
+9,las profesiones/ oficios y ocupaciones,el/la ingeniero/a,engineer,Persona que hace cosas nuevas.,1761,null
+9,las profesiones/ oficios y ocupaciones,el/la intérpete,interpreter,Persona que entiende idiomas.,0,null
+9,las profesiones/ oficios y ocupaciones,el/la jefe/a,boss,Persona que tiene empleados.,761,null
+9,las profesiones/ oficios y ocupaciones,el/la juez,judge,Persona que escucha a los abogados.,1259,null
+9,las profesiones/ oficios y ocupaciones,el/la locutor/a,radio announcer,Persona que habla en la radio.,0,null
+9,las profesiones/ oficios y ocupaciones,el/la médico/a,medical doctor,Persona que trabaja con la medicina.,564,null
+9,las profesiones/ oficios y ocupaciones,el/la obrero/a,worker,Persona que es parte de la fuerza laboral.,2243,null
+9,las profesiones/ oficios y ocupaciones,el/la peluquero/a,hairdresser,Persona que trabaja con el pelo.,0,null
+9,las profesiones/ oficios y ocupaciones,el/la periodista,journalist,Persona que escribe para periódicos.,1464,null
+9,las profesiones/ oficios y ocupaciones,el/la plomero/a,plumber,Persona que trabaja con agua.,0,null
+9,las profesiones/ oficios y ocupaciones,el/la policía,policeman/woman,Persona que encierra a personas malas.,1017,null
+9,las profesiones/ oficios y ocupaciones,el/la (p)sicólogo/a,psychologist,Persona que trabaja con personas con problemas.,4604,null
+9,las profesiones/ oficios y ocupaciones,el/la técnico/a,technician,Persona que trabaja con autos.,1480,null
+9,las profesiones/ oficios y ocupaciones,el/la vendedor/a,salesman/ saleswoman,Persona que vende cosas.,2266,null
+9,title,verbos,verbs,MC,0,null
+9,verbos,apagar,to extinguish/ turn off,El opuesto de poner (una película).,2104,null
+9,verbos,cosechar,to harvest,Tomar comida del terreno.,0,null
+9,verbos,cultivar,to grow/ cultivate,Sinónimo de hacer crecer.,1936,null
+9,verbos,dejar,to leave,El opuesto de tomar.,94,null
+9,verbos,enviar,to send,Sinónimo de mandar.,842,null
+9,verbos,esperar,to wait for,No hacer nada por un tiempo.,163,null
+9,verbos,explotar,to exploit,Tomar las cosas buenas.,1938,null
+9,verbos,llenar,to fill (out),Sinónimo de escribir.,925,null
+9,verbos,mandar,to send,Sinónimo de enviar.,529,null
+9,verbos,ofrecer (zc),to offer,Querer dar.,368,null
+9,verbos,solicitar,to apply (for),Sinónimo de pedir.,1384,null
+9,title,los lugares,places,MC,0,null
+9,los lugares,el campo,countryside,Lugar lejos de la ciudad.,295,null
+9,los lugares,la compañía/empresa,company,Lugar donde trabajan las personas de negocio.,798,null
+9,los lugares,el consultorio,office (of doctor/ dentist/ etc.),Lugar donde trabajan los médicos.,0,null
+9,los lugares,la finca,ranch/ farm,Lugar donde trabajan los agricultores.,4294,null
+9,los lugares,el terreno,land,Está debajo de todo.,796,null
+9,title,el trabajo,work,MC,0,null
+9,el trabajo,la agricultura,farming,Los agricultores hacen esto.,3741,null
+9,el trabajo,el anuncio,ad/ advertisement,Información sobre algo.,2114,null
+9,el trabajo,el/la cliente/a,client,Persona que solicita cosas.,1550,null
+9,el trabajo,el currículum,résumé,Información sobre una persona.,0,null
+9,el trabajo,la entrevista,interview,Cuando una persona hace preguntas a otra persona.,1419,null
+9,el trabajo,la experiencia,experience,Las cosas que hizo una persona.,361,null
+9,el trabajo,la exportación,export,Mandar cosas a otro país.,4493,null
+9,el trabajo,la fuente de ingresos,source of income,De dónde viene el dinero.,801,null
+9,el trabajo,la fuerza laboral,workforce,Las personas que trabajan.,255,null
+9,el trabajo,el incendio,fire,picture,2695,incendio
+9,el trabajo,el puesto,position,MC,755,null
+9,el trabajo,la solicitud,application,MC,3540,null
+9,el trabajo,el sueldo,salary/ wage,El dinero por hacer un trabajo.,1770,null
+9,el trabajo,la vacante,opening,MC,0,null
+9,el trabajo,las ventas,sales,MC,1075,null
+9,title,recursos naturales,natural resources,MC,0,null
+9,recursos naturales,el bosque,forest,picture,1506,bosque
+9,recursos naturales,el hierro,iron,picture,1716,hierro
+9,recursos naturales,la madera,wood,picture,987,madera
+9,recursos naturales,el petróleo,petroleum,picture,3427,petroleo
+9,title,palabras y expresiones útiles,useful words and expressions,MC,0,null
+9,palabras y expresiones útiles,actualmente,at the present time,Sinónimo de ahora.,2362,null
+9,palabras y expresiones útiles,agrícola,agricultural,MC,3611,null
+9,palabras y expresiones útiles,en realidad/realmente,in fact/ really,MC,202,null
+9,palabras y expresiones útiles,lo importante,the important thing,La cosa más importante.,207,null
+9,palabras y expresiones útiles,la industria textil,textile industry,Compañías que hacen ropa.,0,null
+9,palabras y expresiones útiles,por cierto,by the way,MC,123,null
+9,palabras y expresiones útiles,propio/a,own,MC,140,null
+9,palabras y expresiones útiles,la señal,signal,MC,1360,null
+9,palabras y expresiones útiles,sin embargo,nevertheless,MC,180,null
+10,title,las especias y los condimentos,spices and seasonings,MC,0,null
+10,las especias y los condimentos,el aceite,oil,Se usa para freír.,2076,null
+10,las especias y los condimentos,aderezo,salad dressing,Se pone en la ensalada.,0,null
+10,las especias y los condimentos,el azúcar,sugar,Se usa para tener comida dulce.,2033,null
+10,las especias y los condimentos,las especias,spices,Se usan tener comida más deliciosa.,0,null
+10,las especias y los condimentos,las hierbas,herbs,Plantas pequeñas que se usan para especias/ medicina/ ect.,2850,null
+10,las especias y los condimentos,la mayonesa,mayonnaise,picture,0,mayonesa
+10,las especias y los condimentos,la mostaza,mustard,picture,0,mostaza
+10,las especias y los condimentos,la pimienta,pepper,picture,0,pimienta
+10,las especias y los condimentos,la sal,salt,picture,2608,sal
+10,las especias y los condimentos,la salsa de tomate,tomato sauce,picture,0,salsa de tomate
+10,las especias y los condimentos,la vainilla,vanilla,picture,0,vainilla
+10,las especias y los condimentos,el vinagre,vinegar,picture,0,vinagre
+10,title,las frutas y las verduras,fruits and vegetables,MC,0,null
+10,las frutas y las verduras,el aguacate,avocado,picture,0,aguacate
+10,las frutas y las verduras,el ajo,garlic,picture,0,ajo
+10,las frutas y las verduras,la cebolla,onion,picture,0,cebolla
+10,las frutas y las verduras,la cereza,cherry,picture,0,cereza
+10,las frutas y las verduras,las espinacas,spinach,picture,0,espinacas
+10,las frutas y las verduras,la fresa,strawberry,picture,0,fresas
+10,las frutas y las verduras,el limón,lemon,picture,0,limon
+10,las frutas y las verduras,el maíz,corn,picture,3314,maiz
+10,las frutas y las verduras,la manzana,apple,picture,2853,manzana
+10,las frutas y las verduras,la maracuyá,passion fruit,picture,0,maracuya
+10,las frutas y las verduras,el melón,melon,picture,0,melon
+10,las frutas y las verduras,la papaya,papaya,picture,0,papaya
+10,las frutas y las verduras,el pepino,cucumber,picture,0,pepino
+10,las frutas y las verduras,la pera,pear,picture,0,pera
+10,las frutas y las verduras,el pimiento verde,green pepper,picture,0,pimiento verde
+10,las frutas y las verduras,la piña,pineapple,picture,0,pina
+10,las frutas y las verduras,el plátano/la banana,banana/ plantain,picture,0,platano
+10,las frutas y las verduras,la toronja/el pomelo,grapefruit,picture,0,toronja
+10,las frutas y las verduras,la uva,grape,picture,3682,uva
+10,las frutas y las verduras,la zanahoria,carrot,picture,0,zanahorias
+10,title,el pescado y la carne,fish and meat,MC,0,null
+10,el pescado y la carne,las aves,poultry/ fowl,picture,2207,aves
+10,el pescado y la carne,el camarón/la gamba,shrimp,picture,0,camaron
+10,el pescado y la carne,la carne,meat,Los músculos de los animales.,787,null
+10,el pescado y la carne,la carne molida,ground meat,picture,0,carne molida
+10,el pescado y la carne,la carne de res,beef/steak,picture,0,carne de res
+10,el pescado y la carne,el cerdo,pork,picture,3200,cerdo
+10,el pescado y la carne,la chuleta,chop,picture,0,chuleta
+10,el pescado y la carne,el cordero,lamb,picture,0,cordero
+10,el pescado y la carne,la costilla,rib,picture,0,costilla
+10,el pescado y la carne,la langosta,lobster,picture,0,langosta
+10,el pescado y la carne,los mariscos,shellfish,picture,0,mariscos
+10,el pescado y la carne,la oveja,sheep,picture,3556,oveja
+10,el pescado y la carne,el pavo,turkey,picture,0,pavo
+10,title,verbos,verbs,MC,0,null
+10,verbos,agregar/añadir,to add,MC,1708,null
+10,verbos,batir,to beat,MC,3313,null
+10,verbos,consumir,to consume,Sinónimo de comer.,1326,null
+10,verbos,freír (i),to fry,Cocinar en aceite.,0,null
+10,verbos,hervir (ie/ i),to boil,Cocinar en agua muy caliente.,4065,null
+10,verbos,probar (ue),to try/ to taste,MC,911,null
+10,verbos,recomendar (ie),to recommend,MC,1581,null
+10,verbos,tapar,to cover,MC,2129,null
+10,title,las descripciones,descriptions,MC,0,null
+10,las descripciones,agrio/a,sour,El opuesto de dulce.,0,null
+10,las descripciones,dulce,sweet,El opuesto de agrio.,1882,null
+10,las descripciones,asado/a,roasted,Cocinado por mucho tiempo.,0,null
+10,las descripciones,frito/a,fried,MC,0,null
+10,las descripciones,lácteo/a,dairy (product),Una cosa que viene de leche.,0,null
+10,title,otros productos,other products,MC,0,null
+10,otros productos,los churros,fried dough,picture,0,churros
+10,otros productos,la crema,cream,picture,4598,crema
+10,otros productos,el dulce,candy/sweets,picture,1882,dulce
+10,otros productos,la galleta,cookie,picture,0,galleta
+10,otros productos,los garbanzos,garbanzo beans,picture,0,garbanzos
+10,otros productos,la harina,flour,picture,3614,harina
+10,otros productos,la leche de coco,coconut milk,picture,4929,leche do coco
+10,otros productos,las legumbres,legumes,picture,0,legumbres
+10,otros productos,las lentejas,lentils,picture,0,lentejas
+10,otros productos,la manteca/la mantequilla,butter,picture,0,mantequilla
+10,otros productos,la margarina,margarine,Similar a mantequilla/ per no tan natural.,0,null
+10,otros productos,el pan dulce,bun/ small cake,picture,1882,pan dulce
+10,otros productos,el pastel,pastry,MC,0,null
+10,otros productos,el queso crema,cream cheese,picture,4598,queso crema
+10,otros productos,el yogur,yogurt,picture,0,yogur
+10,title,en la mesa,on the table,MC,0,null
+10,en la mesa,la bandeja,tray,picture,4240,bandeja
+10,en la mesa,la botella,bottle,picture,2161,botella
+10,en la mesa,la copa,(stemmed) glass,picture,2267,copa
+10,en la mesa,la cuchara,spoon,picture,0,cuchara
+10,en la mesa,la cucharita,teaspoon,picture,0,cucharita
+10,en la mesa,el cuchillo,knife,picture,2945,cuchillo
+10,en la mesa,el mantel,tablecloth,picture,0,mantel
+10,en la mesa,el plato,plate/ dish,picture,1836,plato
+10,en la mesa,el sacacorchos,corkscrew,picture,0,sacacorchps
+10,en la mesa,la servilleta,napkin,picture,0,servilletas
+10,en la mesa,la taza,cup,picture,3218,taza
+10,en la mesa,el tenedor,fork,picture,0,tenedor
+10,en la mesa,el vaso,glass,picture,2107,vaso
+10,title,palabras y expresiones útiles,useful words and expressions,MC,0,null
+10,palabras y expresiones útiles,el/la campesino/a,peasant,picture,1815,campesino
+10,palabras y expresiones útiles,la receta,recipe,MC,3196,null
+10,palabras y expresiones útiles,todavía,still/ yet,MC,211,null
+10,palabras y expresiones útiles,ya,already,MC,36,null

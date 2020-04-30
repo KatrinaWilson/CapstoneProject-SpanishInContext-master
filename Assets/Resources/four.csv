@@ -1,0 +1,108 @@
+Chapter,Section,Vocab Item,Translation,Prompt Category,Frequency,PictureName
+4,title,la familia,family,MC,0,null
+4,la familia,la abuela,grandmother,La mamá de mi mamá.,2408,null
+4,la familia,el abuelo,grandfather,El papá de mi papá.,1740,null
+4,la familia,la esposa,wife,Después de ser novia.,951,null
+4,la familia,el esposo,husband,Después de ser novio.,2676,null
+4,la familia,la hermana,sister,La hija de mis padres.,1256,null
+4,la familia,el hermano,brother,El hijo de mis padres.,539,null
+4,la familia,la hija,daughter,La hermana de mi hijo.,715,null
+4,la familia,el hijo,son,El hermano de mi hija.,166,null
+4,la familia,la madrastra,stepmother,La esposa nueva de mi papá.,0,null
+4,la familia,la madre,mother,Sinónimo de mamá.,278,null
+4,la familia,la mamá,mom,Sinónimo de madre.,2286,null
+4,la familia,la media hermana,half-sister,La hija de uno de mis padres.,1256,null
+4,la familia,el medio hermano,half-brother,El hijo de uno de mis padres.,539,null
+4,la familia,la nieta,granddaughter,La hija de mi hija.,2615,null
+4,la familia,el nieto,grandson,El hijo de mi hijo.,2615,null
+4,la familia,el niño/la niña,child,Una persona pequeña.,178,null
+4,la familia,la novia,fiancée; girlfriend,Antes de ser esposa.,2726,null
+4,la familia,el novio,fiancé; boyfriend,Antes de ser esposo.,2730,null
+4,la familia,el padrastro,stepfather,El esposo nuevo de mi mamá.,0,null
+4,la familia,el padre,father,Sinónimo de papá.,182,null
+4,la familia,los padres,parents,Mi mamá y papá.,182,null
+4,la familia,el papá,dad,Sinónimo de padre.,2281,null
+4,la familia,el pariente,relative,Una persona en mi familia.,2297,null
+4,la familia,el primo/la prima,cousin,Hijo/hija de mi tío.,1860,null
+4,la familia,la sobrina,niece,La hija de mi hermana.,3593,null
+4,la familia,el sobrino,nephew,El hijo de mi hermano.,3593,null
+4,la familia,la tía,aunt,La hermana de mi mamá.,2199,null
+4,la familia,el tío,uncle,El hermano de mi papá.,1755,null
+4,title,las descripciones,descriptions,MC,0,null
+4,las descripciones,casado/a,married,Una persona que tiene esposa/o.,1830,null
+4,las descripciones,divorciado/a,divorced,Una persona que no tiene esposa/o ahora.,0,null
+4,las descripciones,gemelo/a,twin,Dos hermanos con el mismo cumpleaños.,0,null
+4,las descripciones,ocupado/a,busy,Cuando una persona no tiene tiempo libre.,1601,null
+4,title,verbos,verbs,MC,0,null
+4,verbos,acostar(se) (ue),to put to bed; to go to bed,El opuesto de levantarse.,3077,null
+4,verbos,afeitar(se),to shave; to shave (oneself),picture,0,afeitarse
+4,verbos,almorzar (ue),to have lunch,Comer al mediodía.,3820,null
+4,verbos,ayudar,to help,MC,345,null
+4,verbos,bañar(se),to bathe; to take a bath,picture,3224,banarse
+4,verbos,casar(se),to get married,MC,1105,null
+4,verbos,cerrar (ie),to close,MC,454,null
+4,verbos,conectar(se),to connect to,MC,3084,null
+4,verbos,costar (ue),to cost,MC,626,null
+4,verbos,decir (g/ i),to say/ to tell,Sinónimo de hablar.,28,null
+4,verbos,dedicar,to dedicate,MC,415,null
+4,verbos,desayunar,to have breakfast,Comer en la mañana.,4588,null
+4,verbos,despertar(se) (ie),to wake (someone up); to wake up,El opuesto de dormirse.,734,null
+4,verbos,dormir (ue) la siesta,to take a nap,Dormir un poco durante el día.,4176,null
+4,verbos,dormir(se) (ue),to sleep; to fall asleep,El opuesto de despertarse.,857,null
+4,verbos,duchar(se),to give a shower to; to take a shower,picture,0,ducharse
+4,verbos,empezar (ie),to begin/ to start,El opuesto de terminar.,161,null
+4,verbos,encontrar (ue),to find,Después de buscar.,100,null
+4,verbos,entender (ie),to understand,Sinónimo de comprender,203,null
+4,verbos,llamar(se),to call; to be called,MC,104,null
+4,verbos,hacer,to do,MC,25,null
+4,verbos,jugar (ue),to play (a game/ sport),MC,355,null
+4,verbos,lavar(se),to wash (oneself),picture,1762,lavarse
+4,verbos,levantar(se),to raise; to get up,El opuesto de acostarse.,372,null
+4,verbos,maquillar(se),to put makeup on (someone); to put makeup on (oneself),picture,0,maquillarse
+4,verbos,pasar,to spend (time),MC,67,null
+4,verbos,pasear,to take a walk/ to stroll,Sinónimo de caminar.,1985,null
+4,verbos,pedir (i),to ask for; to order,MC,204,null
+4,verbos,peinar(se),to comb (someone´s hair); to comb (one´s hair),picture,0,peinarse
+4,verbos,pensar (ie),to think,MC,106,null
+4,verbos,pensar (ie) + infinitive,to plan to + verb,MC,106,null
+4,verbos,poder (ue),to be able to/ can,MC,428,null
+4,verbos,poner(se) (g) la ropa,to put one´s clothes on,El opuesto de quitarse la ropa.,77,null
+4,verbos,preferir (ie),to prefer,MC,541,null
+4,verbos,querer (ie),to want,Sinónimo de desear.,57,null
+4,verbos,quitar(se),to take away; to take off,El opuesto de ponerse.,669,null
+4,verbos,repetir (i),to repeat,Hacer algo muchas veces.,382,null
+4,verbos,secar(se),to dry (oneself),picture,2496,secarse
+4,verbos,seguir (i),to follow/ to go on,MC,97,null
+4,verbos,sentarse (ie),to sit down,MC,710,null
+4,verbos,sentir(se) (ie),to feel,MC,3690,null
+4,verbos,servir (i),to serve,MC,226,null
+4,verbos,tener (g/ ie),to have,MC,18,null
+4,verbos,terminar,to finish,El opuesto de empezar.,219,null
+4,verbos,venir (g/ ie),to come,MC,105,null
+4,verbos,vestir(se) (i),to dress; to get dressed,Sinónimo de ponerse la ropa.,1317,null
+4,verbos,visitar,to visit,MC,834,null
+4,verbos,volver (ue),to return,MC,112,null
+4,title,palabras y expreciones útiles,useful words and expressions,MC,0,null
+4,palabras y expreciones útiles,el bautizo,baptism/ christening,MC,0,null
+4,palabras y expreciones útiles,la foto(grafía),photo(graph),picture,2054,foto
+4,palabras y expreciones útiles,frecuentemente,frequently/ often,MC,3753,null
+4,palabras y expreciones útiles,juntos/as,together,MC,378,null
+4,palabras y expreciones útiles,el/la mayor,the oldest,El opuesto del menor.,138,null
+4,palabras y expreciones útiles,el matrimonio,marriage,MC,1109,null
+4,palabras y expreciones útiles,el/la menor,the youngest,El opuesto del mayor.,334,null
+4,palabras y expreciones útiles,tarde,late,El opuesto de temprano,242,null
+4,palabras y expreciones útiles,temprano,early,El opuesto de tarde.,1200,null
+4,palabras y expreciones útiles,un poco,a little,El opuesto de mucho.,74,null
+4,title,expresiones de tiempo,time expressions,MC,0,null
+4,expresiones de tiempo,primero,first,El opuesto de último.,60,null
+4,expresiones de tiempo,luego,later,MC,132,null
+4,expresiones de tiempo,poco después,a little later,MC,87,null
+4,expresiones de tiempo,más tarde,later,MC,242,null
+4,expresiones de tiempo,por último,lastly,MC,139,null
+4,title,otras expresiones con pensar,other expressions with pensar,MC,0,null
+4,otras expresiones con pensar,pensar en,to think about (someone/ something),MC,106,null
+4,otras expresiones con pensar,pensar de,to ask for an opinion,MC,106,null
+4,otras expresiones con pensar,pensar que,to answer with an opinion,MC,106,null
+4,title,expresiones con hacer,expressions with hacer,MC,0,null
+4,expresiones con hacer,hace + length of time + que + present tense,to say that an action/state began in the past and continues into the present,MC,25,null
+4,expresiones con hacer,¿cuánto tiempo + hace que + present tense?,how long has/have (subject) been (activity)?,MC,68,null

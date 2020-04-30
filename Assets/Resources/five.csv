@@ -1,0 +1,123 @@
+Chapter,Section,Vocab Item,Translation,Prompt Category,Frequency,PictureName
+5,title,la arquitectura,architecture,MC,0,null
+5,la arquitectura,el alquiler,rent,El dinero para vivir en un apartamento.,3733,null
+5,la arquitectura,el apartamento,apartment,Un lugar para vivir en un edificio grande.,0,null
+5,la arquitectura,el edificio,building,MC,717,null
+5,la arquitectura,el estilo,style,MC,707,null
+5,la arquitectura,la vivienda,housing,MC,1600,null
+5,title,en el baño,in the bathroom,MC,0,null
+5,en el baño,la bañera,bathtub,picture,0,banera
+5,en el baño,la ducha,shower,picture,0,ducha
+5,en el baño,las cortinas,curtains,picture,3630,cortinas
+5,en el baño,el inodoro,toilet,picture,0,inodoro
+5,en el baño,el jabón,soap,picture,0,jabon
+5,en el baño,el lavabo,bathroom sink,picture,0,lavabo
+5,en el baño,la toalla,towel,picture,4967,toalla
+5,title,en una casa,in a home,MC,0,null
+5,en una casa,el aire acondicionado,air conditioning,picture,0,aire acondicionado
+5,en una casa,el armario,closet/ armoire,picture,0,armario
+5,en una casa,el baño,bathroom,picture,1789,bano
+5,en una casa,la basura,garbage/ trash,picture,2594,basura
+5,en una casa,la calefacción,heating,Una cosa para tener más calor en un edificio.,0,null
+5,en una casa,la chimenea,fireplace,picture,4415,chimenea
+5,en una casa,la cocina,kitchen,picture,1673,cocina
+5,en una casa,el comedor,dining room,picture,3021,comedor
+5,en una casa,el cuarto,room; bedroom,picture,655,cuarto
+5,en una casa,la escalera,stairs,picture,2595,escalera
+5,en una casa,el garaje,garage,picture,0,garaje
+5,en una casa,la habitación,bedroom,Sinónimo de cuarto.,1610,null
+5,en una casa,la lavandería,laundry room,picture,0,lavanderia
+5,en una casa,el pasillo,corridor/ hall,picture,2666,pasillo
+5,en una casa,la piscina,swimming pool,picture,4653,piscina
+5,en una casa,el piso,floor; apartment,MC,797,null
+5,en una casa,la planta baja,first floor/ ground floor,MC,711,null
+5,en una casa,la sala,living room,picture,811,sala
+5,en una casa,la terraza,deck/ balcony,picture,4074,terraza
+5,title,los muebles y accesorios,furniture and accessories,MC,0,null
+5,los muebles y accesorios,la alfombra,carpet/ rug,picture,3158,alfombra
+5,los muebles y accesorios,la butaca,armchair,picture,0,butaca
+5,los muebles y accesorios,la cama,bed,picture,1185,cama
+5,los muebles y accesorios,la cómoda,dresser,picture,0,comoda
+5,los muebles y accesorios,la cortina,curtain,picture,3630,cortina
+5,los muebles y accesorios,el cuadro,picture/ painting,picture,779,cuadro
+5,los muebles y accesorios,el espejo,mirror,picture,1730,espejo
+5,los muebles y accesorios,la lámpara,lamp,picture,3347,lampara
+5,los muebles y accesorios,la mesa,table,picture,461,mesa
+5,los muebles y accesorios,la silla,chair,picture,1307,silla
+5,los muebles y accesorios,el sofá,sofa,picture,0,sofa
+5,title,los electrodomésticos,appliances,MC,0,null
+5,los electrodomésticos,la aspiradora,vacuum cleaner,picture,0,aspiradora
+5,los electrodomésticos,el lavaplatos,dishwasher,picture,0,lavaplatos
+5,los electrodomésticos,el (horno de) microondas,microwave (oven),picture,0,microondas
+5,los electrodomésticos,el/la radio,radio,picture,824,radio
+5,los electrodomésticos,el refrigerador,refrigerator,picture,0,refrigerador
+5,title,expresiones con tener,expressions with tener,MC,0,null
+5,expresiones con tener,tener calor,to be hot,picture,989,tener calor
+5,expresiones con tener,tener cuidado,to be careful,MC,754,null
+5,expresiones con tener,tener frío,to be cold,picture,907,tener frio
+5,expresiones con tener,tener hambre,to be hungry,picture,1204,tener hambre
+5,expresiones con tener,tener miedo,to be afraid,picture,450,tener miedo
+5,expresiones con tener,tener prisa,to be in a hurry,picture,3253,tener prisa
+5,expresiones con tener,tener razón,to be right,MC,212,null
+5,expresiones con tener,tener sed,to be thirsty,picture,3080,tener sed
+5,expresiones con tener,tener sueño,to be sleepy,picture,583,tener sueno
+5,expresiones con tener,tener suerte,to be lucky,MC,725,null
+5,title,en la cocina,in the kitchen,MC,0,null
+5,en la cocina,la estufa,stove,picture,0,estufa
+5,en la cocina,el fregadero,kitchen sink,picture,0,fregadero
+5,en la cocina,el plato,dish/ plate,picture,1836,plato
+5,title,palabras útiles,useful words,MC,0,null
+5,palabras útiles,la desventaja,disadvantage,El opuesto de una ventaja.,0,null
+5,palabras útiles,el trabajo,work,La cosa que hacemos para ganar dinero.,145,null
+5,palabras útiles,la ventaja,advantage,El opuesto de una desventaja.,1226,null
+5,palabras útiles,la vista,view,MC,310,null
+5,title,en el jardín,in the garden,MC,0,null
+5,en el jardín,la barbacoa,barbecue pit; barbecue (event),picture,0,barbacoa
+5,en el jardín,el césped,lawn,picture,0,cesped
+5,en el jardín,la hoja,leaf,picture,1000,hoja
+5,title,los lugares,places,MC,0,null
+5,los lugares,las afueras,outskirts,El lugar lejos del centro.,4225,null
+5,los lugares,el barrio,neighborhood,Un lugar con muchas casas.,1146,null
+5,los lugares,la calle,street,picture,248,calle
+5,los lugares,el centro,downtown/ center,El lugar en el centro de la ciudad.,339,null
+5,los lugares,cerca (de),near/ close (to),El opuesto de lejos.,391,null
+5,los lugares,lejos (de),far (from),El opuesto de cerca.,469,null
+5,los lugares,la zona,area,MC,449,null
+5,title,los números ordinales,ordinal numbers,MC,0,null
+5,los números ordinales,primero/primer,first,.../ segundo/ tercero,60,null
+5,los números ordinales,segundo,second,primero/ .../ tercero,243,null
+5,los números ordinales,tercero/tercer,third,segundo/ .../ cuarto,394,null
+5,los números ordinales,cuarto,fourth,tercero/ .../ quinto,655,null
+5,los números ordinales,quinto,fifth,cuarto/ .../ sexto,1179,null
+5,los números ordinales,sexto,sixth,quinto/ .../ séptimo,3140,null
+5,los números ordinales,séptimo,seventh,sexto/ .../ octavo,0,null
+5,los números ordinales,octavo,eighth,séptimo/ .../ noveno,0,null
+5,los números ordinales,noveno,ninth,octavo/ .../ décimo,0,null
+5,los números ordinales,décimo,tenth,octavo/ noveno/ ...,3355,null
+5,title,las descripciones,descriptions,MC,0,null
+5,las descripciones,limpio/a,clean,El opuesto de sucio.,1397,null
+5,las descripciones,ordenado/a,tidy,MC,2417,null
+5,las descripciones,seco/a,dry,MC,1178,null
+5,las descripciones,sucio/a,dirty,El opuesto de limpio.,1994,null
+5,title,para la cama,for the bed,MC,0,null
+5,para la cama,la almohada,pillow,picture,4939,almohada
+5,para la cama,la manta,blanket,picture,4063,manta
+5,para la cama,la sábana,sheet,picture,3859,sabana
+5,title,verbos,verbs,MC,0,null
+5,verbos,barrer,to sweep,picture,3156,barrer
+5,verbos,cocinar,to cook,picture,3372,cocinar
+5,verbos,creer,to believe,MC,91,null
+5,verbos,doblar,to fold,Preparar la ropa para la cómoda.,1981,null
+5,verbos,lavar,to wash,Limpiar con agua.,1762,null
+5,verbos,limpiar,to clean,Para no tener un lugar sucio.,1537,null
+5,verbos,ordenar,to tidy up,Sinónimo de organizar.,1167,null
+5,verbos,pasar la aspiradora,to vacuum,picture,67,pasar la aspiradora
+5,verbos,planchar,to iron,picture,0,planchar
+5,verbos,recoger (j),to pick up,MC,634,null
+5,verbos,sacar,to take out,picture,228,sacar
+5,verbos,secar,to dry,Quitar el agua.,2496,null
+5,verbos,tender (ie),to hang (clothes),picture,727,tender la ropa
+5,title,electronic items,cosas electrónicas,MC,0,null
+5,electronic items,el cargador,charger,picture,0,cargador
+5,electronic items,la consola de videojuegos,games console,picture,0,consola
+5,electronic items,la impresora,printer,picture,0,impresora
